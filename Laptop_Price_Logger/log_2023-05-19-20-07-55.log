@@ -1,0 +1,108 @@
+2023-05-19 20:07:58,741 DEBUG matplotlib matplotlib data path: C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\matplotlib\mpl-data
+2023-05-19 20:07:58,746 DEBUG matplotlib CONFIGDIR=C:\Users\karth\.matplotlib
+2023-05-19 20:07:58,747 DEBUG matplotlib interactive is False
+2023-05-19 20:07:58,747 DEBUG matplotlib platform is win32
+2023-05-19 20:07:58,774 DEBUG graphviz._tools deprecate positional args: graphviz.backend.piping.pipe(['renderer', 'formatter', 'neato_no_op', 'quiet'])
+2023-05-19 20:07:58,774 DEBUG graphviz._tools deprecate positional args: graphviz.backend.rendering.render(['renderer', 'formatter', 'neato_no_op', 'quiet'])
+2023-05-19 20:07:58,776 DEBUG graphviz._tools deprecate positional args: graphviz.backend.unflattening.unflatten(['stagger', 'fanout', 'chain', 'encoding'])
+2023-05-19 20:07:58,777 DEBUG graphviz._tools deprecate positional args: graphviz.backend.viewing.view(['quiet'])
+2023-05-19 20:07:58,781 DEBUG graphviz._tools deprecate positional args: graphviz.quoting.quote(['is_html_string', 'is_valid_id', 'dot_keywords', 'endswith_odd_number_of_backslashes', 'escape_unescaped_quotes'])
+2023-05-19 20:07:58,781 DEBUG graphviz._tools deprecate positional args: graphviz.quoting.a_list(['kwargs', 'attributes'])
+2023-05-19 20:07:58,781 DEBUG graphviz._tools deprecate positional args: graphviz.quoting.attr_list(['kwargs', 'attributes'])
+2023-05-19 20:07:58,781 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.clear(['keep_attrs'])
+2023-05-19 20:07:58,781 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.__iter__(['subgraph'])
+2023-05-19 20:07:58,781 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.node(['_attributes'])
+2023-05-19 20:07:58,781 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.edge(['_attributes'])
+2023-05-19 20:07:58,781 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.attr(['_attributes'])
+2023-05-19 20:07:58,781 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.subgraph(['name', 'comment', 'graph_attr', 'node_attr', 'edge_attr', 'body'])
+2023-05-19 20:07:58,783 DEBUG graphviz._tools deprecate positional args: graphviz.piping.Pipe._pipe_legacy(['renderer', 'formatter', 'neato_no_op', 'quiet'])
+2023-05-19 20:07:58,784 DEBUG graphviz._tools deprecate positional args: graphviz.saving.Save.save(['directory'])
+2023-05-19 20:07:58,784 DEBUG graphviz._tools deprecate positional args: graphviz.rendering.Render.render(['directory', 'view', 'cleanup', 'format', 'renderer', 'formatter', 'neato_no_op', 'quiet', 'quiet_view'])
+2023-05-19 20:07:58,784 DEBUG graphviz._tools deprecate positional args: graphviz.rendering.Render.view(['directory', 'cleanup', 'quiet', 'quiet_view'])
+2023-05-19 20:07:58,785 DEBUG graphviz._tools deprecate positional args: graphviz.unflattening.Unflatten.unflatten(['stagger', 'fanout', 'chain'])
+2023-05-19 20:07:58,785 DEBUG graphviz._tools deprecate positional args: graphviz.graphs.BaseGraph.__init__(['comment', 'filename', 'directory', 'format', 'engine', 'encoding', 'graph_attr', 'node_attr', 'edge_attr', 'body', 'strict'])
+2023-05-19 20:07:58,786 DEBUG graphviz._tools deprecate positional args: graphviz.sources.Source.from_file(['directory', 'format', 'engine', 'encoding', 'renderer', 'formatter'])
+2023-05-19 20:07:58,786 DEBUG graphviz._tools deprecate positional args: graphviz.sources.Source.__init__(['filename', 'directory', 'format', 'engine', 'encoding'])
+2023-05-19 20:07:58,786 DEBUG graphviz._tools deprecate positional args: graphviz.sources.Source.save(['directory'])
+2023-05-19 20:08:00,776 INFO root Data ingestion started
+2023-05-19 20:08:00,776 INFO root Dataframe created
+2023-05-19 20:08:01,776 INFO root Data ingestion ended
+2023-05-19 20:08:01,777 INFO root Data Transformation started
+2023-05-19 20:08:01,777 INFO root Calling the ingestion .csv file and Creating a Dataframe 
+2023-05-19 20:08:01,806 INFO root Transforming Brand Name
+2023-05-19 20:08:01,817 INFO root Transforming Processor 
+2023-05-19 20:08:01,823 INFO root Transforming RAM 
+2023-05-19 20:08:01,824 INFO root Transforming OS 
+2023-05-19 20:08:01,826 INFO root Transforming Storage 
+2023-05-19 20:08:01,828 INFO root Transforming Prices 
+2023-05-19 20:08:01,844 INFO root Data Transformation ended
+2023-05-19 20:08:01,844 INFO root Data Pre_processing started
+2023-05-19 20:08:01,844 INFO root Calling the pre-processing .csv file and Creating a Dataframe 
+2023-05-19 20:08:01,867 INFO root Naming the columns
+2023-05-19 20:08:01,869 INFO root Deleting the rows with count less than 5
+2023-05-19 20:08:01,869 INFO root Data information
+2023-05-19 20:08:01,869 INFO root  Row :- 1470, Columns:- 6
+2023-05-19 20:08:01,872 INFO root Missing Data Number :- brand_name          0
+processor_brand    31
+ram                 0
+os                 33
+storage            41
+prices             25
+dtype: int64
+2023-05-19 20:08:01,873 INFO root Missing Data Percentage :- brand_name        0.00
+processor_brand   2.11
+ram               0.00
+os                2.24
+storage           2.79
+prices            1.70
+dtype: float64%
+2023-05-19 20:08:01,873 INFO root Index(['Column Namesbrand_name', 'Column Namesprocessor_brand',
+       'Column Namesram', 'Column Namesos', 'Column Namesstorage',
+       'Column Namesprices'],
+      dtype='object')
+2023-05-19 20:08:01,873 INFO root Converting Categorical to Numerical
+2023-05-19 20:08:01,874 INFO root brand_name Started:- 
+2023-05-19 20:08:01,906 INFO root brand_nameEnded ....
+2023-05-19 20:08:01,918 INFO root processor_brand Started:- 
+2023-05-19 20:08:02,020 INFO root processor_brandEnded ....
+2023-05-19 20:08:02,043 INFO root ram Started:- 
+2023-05-19 20:08:02,093 INFO root ramEnded ....
+2023-05-19 20:08:02,106 INFO root os Started:- 
+2023-05-19 20:08:02,145 INFO root osEnded ....
+2023-05-19 20:08:02,160 INFO root storage Started:- 
+2023-05-19 20:08:02,232 INFO root storageEnded ....
+2023-05-19 20:08:02,263 INFO root Taking out null values
+2023-05-19 20:08:02,264 INFO root drop the prices
+2023-05-19 20:08:02,270 INFO root Imputing the Missing values
+2023-05-19 20:08:02,300 INFO root After Imputing the missing values ..............
+2023-05-19 20:08:02,301 INFO root  Row :- 1445, Columns:- 6
+2023-05-19 20:08:02,305 INFO root Missing Data Number :- brand_name         0
+processor_brand    0
+ram                0
+os                 0
+storage            0
+prices             0
+dtype: int64
+2023-05-19 20:08:02,306 INFO root Missing Data Percentage :- brand_name        0.00
+processor_brand   0.00
+ram               0.00
+os                0.00
+storage           0.00
+prices            0.00
+dtype: float64%
+2023-05-19 20:08:02,326 INFO root Data Pre-Processing ended
+2023-05-19 20:08:02,327 INFO root Data Seprated started
+2023-05-19 20:08:02,327 INFO root Seprate x and y data
+2023-05-19 20:08:02,346 INFO root Scaling the values
+2023-05-19 20:08:02,356 INFO root Spliting the data into 80-20
+2023-05-19 20:08:02,364 INFO root Data Seprated ended
+2023-05-19 20:08:05,883 INFO root Model_analysis started
+2023-05-19 20:08:13,658 DEBUG matplotlib CACHEDIR=C:\Users\karth\.matplotlib
+2023-05-19 20:08:13,663 DEBUG matplotlib.font_manager Using fontManager instance from C:\Users\karth\.matplotlib\fontlist-v330.json
+2023-05-19 20:08:16,041 DEBUG root initializing neural network...
+2023-05-19 20:08:16,041 DEBUG root initialized
+2023-05-19 20:08:25,685 INFO root Sttoring the model Object
+2023-05-19 20:08:25,688 INFO root Model_analysis ended
+2023-05-19 20:08:25,712 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-19 20:08:25,712 INFO werkzeug [33mPress CTRL+C to quit[0m

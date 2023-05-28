@@ -1,0 +1,1165 @@
+,brand_name,processor_brand,ram,os,storage,prices
+0,hp,intel pentium,8 ,Windows 11,256 gb ssd,28950.0
+1,lenovo,intel i3,8 ,Windows 11,256 gb ssd,34990.0
+2,hp,intel i3 11th,8 ,Windows 11,256 gb ssd,37999.0
+3,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,39990.0
+4,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,41990.0
+5,hp,intel i3 11th,8 ,,512 gb ssd,41450.0
+6,asus,intel i5 11th,8 ,Windows 11,512 gb ssd,47990.0
+7,hp,intel i5 12th,8 ,Windows 11,512 gb ssd,65999.0
+8,hp,intel i5 12th,8 ,,512 gb ssd,59950.0
+9,asus,intel i5,8 ,Windows 11,512 gb ssd,48990.0
+10,apple,apple m1,8 ,macos,256 gb ssd,87900.0
+11,apple,apple m1,8 ,macos,256 gb ssd,87900.0
+12,apple,apple m2,8 ,macos,256 gb ssd,129900.0
+13,lenovo,intel i5 12th,8 ,Windows 11,512 gb ssd,56990.0
+14,dell,intel i5 12th,16,Windows 11,512 gb ssd,77344.0
+15,asus,intel i3 11th,8 ,Windows 11,512 gb ssd,38990.0
+16,acer,amd ryzen  5 ,16,Windows 11,512 gb ssd,39990.0
+17,hp,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,47450.0
+18,acer,amd ryzen  3 ,4 ,Windows 11,256 gb ssd,25990.0
+19,lenovo,intel i3 12th,,Windows 11,512 gb ssd,43990.0
+20,apple,apple m2,8 ,macos,256 gb ssd,119900.0
+21,apple,apple m2,8 ,macos,256 gb ssd,119900.0
+22,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,43450.0
+23,lenovo,intel i5 12th,16,Windows 11,512 gb ssd,68200.0
+24,asus,amd ryzen  5 ,16,Windows 11,512 gb ssd,59990.0
+25,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,66144.0
+26,asus,intel i3 11th,8 ,Windows 11,512 gb ssd,38990.0
+27,dell,intel i5 11th,16,Windows 11,512 gb ssd,64344.0
+28,dell,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,79990.0
+29,dell,intel i3 11th,8 ,Windows 11,512 gb ssd,46044.0
+30,hp,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,48450.0
+31,hp,amd ryzen  5 ,8 ,,512 gb ssd,58999.0
+32,hp,intel celeron,8 ,Windows 11,256 gb ssd,32999.0
+33,hp,intel i3 11th,8 ,Windows 11,256 gb ssd,36450.0
+35,microsoft,amd ryzen  7  octa,8 ,Windows 10,256 gb ssd,124999.0
+36,microsoft,,8 ,,256 gb ssd,93990.0
+37,lenovo,,4 ,Windows 10,256 gb ssd,33990.0
+40,hp,amd ryzen  7 ,16,Windows 10,1 tb ssd,90999.0
+41,dell,intel i5 11th,16,Windows 11,512 gb ssd,79999.0
+42,hp,intel i5 11th,16,Windows 10,512 gb ssd,71999.0
+45,lenovo,intel i5 11th,8 ,Windows 10,256 gb ssd,54999.0
+46,acer,intel i5 11th,8 ,Windows 11,512 gb ssd,54499.0
+47,dell,intel i5 11th,8 ,Windows 11,1 tb ,63144.0
+48,microsoft,,8 ,Windows 10,128 gb ssd ssd,101999.0
+49,apple,intel i5 10th,16,,1 tb ssd,194900.0
+50,asus,,8 ,Windows 10,1 tb hard drive,62999.0
+51,acer,intel i5 10th,8 ,Windows 10,512 gb ssd,59399.0
+52,hp,intel i5 10th,8 ,Windows 10,512 gb ssd,73999.0
+53,dell,intel i3 11th,8 ,Windows 10,1 tb hard drive,36423.0
+54,dell,intel i3 10th,8 ,Windows 10,256 gb ssd,43644.0
+55,lenovo,,8 ,Windows 10,512 gb ssd,66990.0
+56,hp,amd ryzen  5 ,8 ,Windows 10,,62499.0
+57,hp,amd ryzen  5 ,8 ,,512 gb ssd,63499.0
+58,hp,intel i5 11th,8 ,Windows 10,512 gb ssd,53499.0
+59,dell,intel i3 11th,8 ,Windows 10,256 gb ssd,36423.0
+60,hp,intel i5 11th,16,Windows 10,512 gb ssd,79997.0
+61,dell,intel i3 11th,8 ,Windows 10,256 gb ssd,43873.0
+62,hp,intel i5 11th,8 ,Windows 10,512 gb ssd,67997.0
+63,hp,intel i7 11th,16,Windows 10,512 gb ssd,94997.0
+64,hp,,8 ,Windows 10,512 gb ssd,68997.0
+65,asus,,16,Windows 10,1 tb ssd,102900.0
+67,dell,intel i5 11th,8 ,Windows 10,512 gb ssd,56144.0
+68,hp,,16,Windows 10,512 gb ssd,70999.0
+70,acer,intel i3 11th,4 ,Windows 10,1 tb hdd,39499.0
+71,hp,amd ryzen  5  hexa,8 ,Windows 10,512 gb ssd,71999.0
+72,hp,intel i7 11th,16,Windows 10,512 gb ssd,112497.0
+73,hp,intel i5 11th,8 ,Windows 10,512 gb ssd,71999.0
+74,avita,intel i5 10th,8 ,,512 gb ssd,47999.0
+75,hp,intel i5 10th,8 ,Windows 10,1 tb ,72999.0
+76,lenovo,,8 ,Windows 10,512 gb ssd,63190.0
+79,asus,,16,Windows 10,512 gb ssd,132499.0
+80,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,61990.0
+81,lenovo,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,45990.0
+82,asus,intel i3,8 ,Windows 11,256 gb ssd,35990.0
+83,asus,intel celeron,4 ,Windows 11,256 gb ssd,23990.0
+84,asus,intel i5 11th,8 ,Windows 11,1 tb ,49990.0
+85,lenovo,intel celeron,4 ,Windows 11,,26490.0
+86,asus,intel i5 11th,8 ,Windows 11,512 gb ssd,74990.0
+87,dell,intel i5 11th,8 ,Windows 10,512 gb ssd,59499.0
+88,asus,intel i7 11th,16,Windows 11,1 tb ssd,89990.0
+89,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,52990.0
+90,asus,intel i7 12th,16,Windows 11,1 tb ssd,118999.0
+91,asus,amd ryzen  7 ,16,Windows 11,512 gb ssd,102999.0
+93,hp,amd ryzen  3 ,8 ,Windows 11,512 gb ssd,39450.0
+94,hp,intel i5 11th,16,Windows 10,512 gb ssd,66499.0
+95,lenovo,,8 ,Windows 10,1 tb hard drive,65990.0
+96,avita,intel celeron,4 ,Windows 10,256 gb ssd,22999.0
+97,hp,,8 ,Windows 10,512 gb ssd,49499.0
+98,avita,intel celeron,4 ,Windows 10,256 gb ssd,22999.0
+99,hp,amd ryzen  5  hexa,8 ,Windows 10,1 tb ,70997.0
+100,hp,,16,Windows 10,512 gb ssd,80999.0
+101,lenovo,,16,Windows 10,512 gb ssd,69990.0
+102,lenovo,,16,Windows 10,512 gb ssd,76990.0
+103,lenovo,,8 ,Windows 10,512 gb ssd,62999.0
+104,lenovo,,8 ,,,60990.0
+105,hp,amd ryzen  7  octa,16,Windows 10,512 gb ssd,95999.0
+106,microsoft,,8 ,,256 gb ssd,88999.0
+107,hp,intel i5 11th,8 ,Windows 11,512 gb ssd,59999.0
+108,hp,amd ryzen  7 ,16,Windows 11,1 tb ssd,82999.0
+109,hp,amd ryzen  7 ,8 ,Windows 10,512 gb ssd,57499.0
+110,lenovo,intel i5 11th,16,Windows 11,512 gb ssd,62999.0
+112,asus,intel i3 10th,8 ,Windows 11,512 gb ssd,35990.0
+113,lenovo,,8 ,Windows 10,,42990.0
+114,microsoft,,8 ,Windows 10,128 gb ssd ssd,69999.0
+115,hp,,8 ,Windows 10,1 tb hdd,39999.0
+116,lenovo,intel i7,16,Windows 11,1 tb ssd,145990.0
+117,lenovo,,8 ,Windows 10,1 tb ,74990.0
+118,hp,,8 ,Windows 10,,60499.0
+119,hp,intel i5 11th,8 ,Windows 10,512 gb ssd,58499.0
+120,asus,,16,Windows 10,512 gb ssd,66999.0
+121,acer,intel i5 11th,16,Windows 10,512 gb ssd,65999.0
+122,hp,intel i5 10th,16,Windows 10,1 tb ssd,86849.0
+123,hp,intel i5 10th,16,Windows 10,1 tb ssd,83699.0
+124,apple,apple m1,8 ,macos,256 gb ssd,109999.0
+125,lenovo,,8 ,Windows 10,1 tb ,66990.0
+126,asus,amd ryzen  7 ,16,Windows 10,1 tb ssd,84990.0
+127,dell,intel i5 11th,16,Windows 10,512 gb ssd,76644.0
+128,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,64990.0
+129,asus,,,,,167999.0
+130,asus,,4 ,Windows 10,1 tb hard drive,45999.0
+131,acer,intel i5 10th,8 ,Windows 10,512 gb ssd,52199.0
+133,hp,intel i5 10th,8 ,Windows 10,512 gb ssd,69999.0
+135,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,41999.0
+136,asus,intel i3 10th,4 ,Windows 10,1 tb hard drive,24990.0
+137,lenovo,amd ryzen  7 ,16,Windows 11,1 tb ssd,84990.0
+138,lenovo,intel i7 11th,16,Windows 11,512 gb ssd,104990.0
+140,asus,intel i5 11th,8 ,Windows 11,256 gb ssd,45990.0
+142,dell,intel i5 11th,16,Windows 11,512 gb ssd,65944.0
+143,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,57299.0
+144,dell,intel i5 11th,16,Windows 11,512 gb ssd,69544.0
+145,asus,intel i5,8 ,Windows 10,1 tb ,58990.0
+146,microsoft,intel i5 11th,8 ,Windows 11,,82990.0
+147,dell,intel i3 11th,8 ,Windows 11,1 tb ,47894.0
+148,asus,intel i5 11th,16,Windows 11,512 gb ssd,51990.0
+149,hp,amd ryzen  5 ,8 ,Windows 10,512 gb ssd,60999.0
+150,dell,amd ryzen  3 ,8 ,Windows 11,1 tb hdd,33749.0
+151,dell,intel i3 11th,8 ,Windows 11,256 gb ssd,32673.0
+152,dell,intel i5 11th,8 ,Windows 10,1 tb hard drive,47749.0
+153,dell,intel i3 11th,8 ,Windows 10,1 tb hard drive,37423.0
+154,dell,amd ryzen  5 ,8 ,Windows 11,256 gb ssd,43549.0
+155,dell,intel i7 11th,16,Windows 10,1 tb ssd,35423.0
+156,lenovo,intel i5 11th,8 ,Windows 10,256 gb ssd,52990.0
+157,lenovo,intel i3 10th,8 ,Windows 11,512 gb ssd,36980.0
+158,asus,intel i3 10th,8 ,Windows 10,1 tb hdd,25990.0
+159,asus,intel i3 11th,8 ,Windows 11,256 gb ssd,42990.0
+160,lenovo,intel i3 10th,8 ,Windows 11,1 tb hdd,31990.0
+161,lenovo,intel i3 11th,8 ,Windows 11,256 gb ssd,36990.0
+162,lenovo,intel celeron,4 ,Windows 11,256 gb ssd,25980.0
+163,hp,amd ryzen  5 ,16,Windows 11,512 gb ssd,81199.0
+164,hp,intel i5 11th,8 ,Windows 11,512 gb ssd,55999.0
+165,msi,,8 ,Windows 10,512 gb ssd,44999.0
+166,msi,,4 ,Windows 10,256 gb ssd,24999.0
+167,dell,intel i5 11th,16,Windows 11,512 gb ssd,64944.0
+168,lenovo,intel i5,16,Windows 11,512 gb ssd,78990.0
+169,lenovo,intel i5,16,Windows 10,512 gb ssd,63999.0
+170,lenovo,amd ryzen  7 ,16,Windows 10,512 gb ssd,98990.0
+171,lenovo,intel i7,16,Windows 10,512 gb ssd,102990.0
+172,lenovo,intel i5,8 ,Windows 10,512 gb ssd,58990.0
+173,lenovo,intel i5 11th,16,Windows 11,512 gb ssd,64499.0
+174,lenovo,intel i7 11th,16,Windows 11,512 gb ssd,89990.0
+176,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,59144.0
+177,dell,amd ryzen  5 ,8 ,Windows 11,256 gb ssd,58499.0
+178,hp,amd ryzen  5 ,8 ,Windows 10,512 gb ssd,62497.0
+179,hp,amd ryzen  5 ,16,Windows 11,512 gb ssd,65999.0
+180,asus,amd ryzen  7 ,8 ,Windows 10,512 gb ssd,74999.0
+181,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,36450.0
+182,asus,intel i3 11th,8 ,Windows 11,256 gb ssd,35990.0
+183,asus,intel i5 11th,8 ,Windows 11,1 tb ,59990.0
+184,dell,intel i5 11th,8 ,Windows 11,1 tb ,55244.0
+187,lenovo,amd ryzen  7 ,8 ,Windows 10,512 gb ssd,65990.0
+188,hp,intel i7 11th,16,Windows 10,1 tb ssd,121199.0
+189,hp,intel i5 11th,16,Windows 10,512 gb ssd,95999.0
+190,hp,intel i5 11th,16,Windows 10,512 gb ssd,100999.0
+191,lenovo,intel i5 11th,16,Windows 11,512 gb ssd,73990.0
+192,lenovo,intel i3 11th,8 ,Windows 11,256 gb ssd,33990.0
+193,hp,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,59997.0
+194,lenovo,intel i3,8 ,Windows 11,512 gb ssd,33990.0
+195,lenovo,amd ryzen  7 ,16,Windows 11,512 gb ssd,117999.0
+196,lenovo,amd ryzen  7 ,16,,1 tb ssd,130990.0
+197,avita,intel i5 10th,8 ,Windows 10,,48999.0
+198,dell,intel i3 11th,8 ,Windows 11,1 tb hdd,31673.0
+200,lenovo,intel i3,8 ,Windows 11,512 gb ssd,59990.0
+201,dell,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,42999.0
+202,lenovo,intel i3 10th,4 ,Windows 11,256 gb ssd,34990.0
+203,apple,apple m1,16,macos,,162900.0
+204,asus,amd ryzen  7 ,16,Windows 11,1 tb ssd,100990.0
+206,lenovo,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,63990.0
+207,acer,intel celeron,4 ,Windows 11,256 gb ssd,27999.0
+208,hp,intel i5 11th,8 ,Windows 11,512 gb ssd,59999.0
+209,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,40450.0
+210,asus,intel i5,16,Windows 11,512 gb ssd,74990.0
+211,asus,amd ryzen  7 ,16,Windows 11,1 tb ssd,104990.0
+212,hp,intel i3,8 ,Windows 11,512 gb ssd,53199.0
+213,hp,intel i5,16,Windows 11,512 gb ssd,73199.0
+214,hp,intel i5,8 ,Windows 11,512 gb ssd,53499.0
+215,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,40144.0
+216,hp,intel i5 11th,8 ,Windows 11,512 gb ssd,55499.0
+217,hp,amd ryzen  5 ,16,Windows 11,512 gb ssd,61499.0
+218,microsoft,intel i5 11th,8 ,Windows 11,,82990.0
+219,hp,intel i5,16,Windows 11,512 gb ssd,68199.0
+220,hp,intel i7 11th,16,Windows 10,1 tb ssd,92999.0
+222,hp,amd ryzen  7  octa,16,Windows 10,1 tb ssd,94199.0
+223,apple,apple m2,8 ,macos,512 gb ssd,149900.0
+224,samsung,intel i5 12th,8 ,Windows 11,512 gb ssd,64490.0
+225,apple,apple m2,8 ,macos,512 gb ssd,149900.0
+227,lenovo,intel i3 10th,8 ,Windows 11,512 gb ssd,33990.0
+228,microsoft,intel i5 11th,8 ,Windows 11,,75990.0
+229,lenovo,intel i3,8 ,Windows 11,256 gb ssd,55990.0
+230,asus,intel i5 10th,16,Windows 11,512 gb ssd,58990.0
+231,hp,amd ryzen  3 ,8 ,Windows 11,512 gb ssd,39950.0
+232,asus,amd ryzen  5 ,16,Windows 11,512 gb ssd,59990.0
+233,samsung,intel i5 12th,16,Windows 11,512 gb ssd,68490.0
+234,hp,intel i3 11th,8 ,Windows 11,256 gb ssd,37950.0
+235,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,39990.0
+236,dell,intel i3 11th,8 ,Windows 11,512 gb ssd,46673.0
+237,dell,amd ryzen  3 ,8 ,Windows 11,512 gb ssd,39194.0
+238,asus,intel i7 12th,16,Windows 11,512 gb ssd,98999.0
+239,asus,intel i7,16,Windows 11,512 gb ssd,104990.0
+240,hp,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,57499.0
+241,dell,intel i7 12th,16,Windows 11,512 gb ssd,127698.0
+242,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,64944.0
+243,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,58990.0
+244,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,53944.0
+245,avita,intel celeron,4 ,,256 gb ssd,22999.0
+246,hp,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,72999.0
+247,asus,intel i3,8 ,Windows 11,,45990.0
+248,hp,intel i7 12th,16,Windows 11,1 tb ssd,119999.0
+250,dell,intel i5 11th,16,Windows 11,512 gb ssd,76144.0
+252,dell,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,39144.0
+253,asus,intel i7 12th,16,Windows 11,1 tb ssd,101990.0
+254,asus,intel i3 10th,8 ,Windows 11,512 gb ssd,33990.0
+255,asus,intel i7 12th,16,Windows 11,1 tb ssd,149999.0
+256,hp,intel i5 11th,8 ,Windows 11,512 gb ssd,55450.0
+258,asus,amd ryzen  7 ,16,Windows 11,512 gb ssd,94990.0
+259,asus,intel i7,16,Windows 11,512 gb ssd,84990.0
+260,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,49144.0
+261,dell,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,39999.0
+262,hp,intel i5 11th,8 ,Windows 11,1 tb ,72997.0
+263,asus,amd ryzen  7 ,16,Windows 11,1 tb ssd,129990.0
+264,asus,intel i3 10th,4 ,Windows 11,1 tb hdd,28990.0
+266,asus,intel i5 11th,16,Windows 11,512 gb ssd,83990.0
+267,asus,intel i5 10th,16,Windows 11,512 gb ssd,58990.0
+268,lenovo,intel i5 11th,16,Windows 11,512 gb ssd,71990.0
+269,lenovo,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,45990.0
+270,hp,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,57499.0
+271,hp,intel i3,8 ,Windows 11,512 gb ssd,53199.0
+272,asus,amd ryzen  7 ,16,Windows 11,512 gb ssd,82990.0
+273,hp,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,62999.0
+274,hp,intel i7 12th,16,Windows 11,1 tb ssd,92199.0
+275,hp,intel i5 12th,16,,512 gb ssd,73199.0
+276,asus,intel i7 12th,,Windows 11,1 tb ssd,179999.0
+278,lenovo,intel i3 10th,8 ,Windows 11,1 tb hdd,33490.0
+279,hp,intel i5 12th,16,Windows 11,512 gb ssd,73199.0
+280,dell,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,47799.0
+281,dell,intel i3,8 ,Windows 11,256 gb ssd,32673.0
+282,hp,intel i5 12th,16,,512 gb ssd,64999.0
+283,apple,apple m1,16,macos,,119900.0
+284,acer,intel i5 11th,8 ,Windows 11,512 gb ssd,48990.0
+285,asus,amd ryzen  5 ,16,Windows 11,512 gb ssd,54990.0
+286,lenovo,amd ryzen  5 ,,Windows 11,,61990.0
+287,lenovo,intel i3 11th,,Windows 11,512 gb ssd,38690.0
+288,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,56490.0
+289,asus,intel i5 12th,8 ,Windows 11,512 gb ssd,57990.0
+290,asus,amd ryzen  7 ,8 ,Windows 10,1 tb ssd,74990.0
+291,apple,apple m2,8 ,macos,512 gb ssd,149900.0
+293,asus,intel i3,,,,49990.0
+294,asus,intel i5 12th,16,Windows 11,512 gb ssd,89990.0
+295,dell,intel i7 12th,16,Windows 11,512 gb ssd,110198.0
+296,dell,intel i3 11th,8 ,Windows 11,256 gb ssd,44673.0
+297,asus,intel i7 12th,16,Windows 11,512 gb ssd,151990.0
+298,lenovo,amd ryzen  5 ,8 ,Windows 11,,47990.0
+299,samsung,intel i7 12th,16,Windows 11,512 gb ssd,77990.0
+300,dell,amd ryzen  7 ,16,,512 gb ssd,91644.0
+301,hp,intel i3 11th,8 ,,512 gb ssd,42450.0
+302,dell,intel i5,16,Windows 11,512 gb ssd,71444.0
+303,lenovo,intel i5 11th,16,,512 gb ssd,61490.0
+304,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,75144.0
+305,asus,intel i7 11th,16,Windows 11,512 gb ssd,107999.0
+306,asus,intel i7 12th,16,Windows 11,1 tb ssd,125999.0
+307,lenovo,intel i3,8 ,Windows 11,256 gb ssd,33990.0
+308,asus,amd ryzen  3 ,8 ,Windows 11,256 gb ssd,33990.0
+309,asus,intel i5 12th,8 ,Windows 11,512 gb ssd,73990.0
+310,asus,intel i5 12th,16,Windows 11,512 gb ssd,116990.0
+311,lenovo,amd ryzen  5 ,16,Windows 11,512 gb ssd,64991.0
+312,apple,apple m2,16,macos,1 tb ssd,269900.0
+313,apple,apple m2,32,macos,1 tb ssd,349900.0
+315,apple,apple m2,16,macos,1 tb ssd,249900.0
+316,samsung,intel i5 13th,8 ,Windows 11,512 gb ssd,74990.0
+317,lenovo,amd ryzen  5 ,16,Windows 11,512 gb ssd,69990.0
+319,apple,apple m2,16,macos,512 gb ssd,199900.0
+320,dell,intel i5 12th,16,Windows 11,512 gb ssd,69999.0
+321,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,61499.0
+322,microsoft,intel 12th,8 ,Windows 11,256 gb ssd,113990.0
+323,microsoft,intel 12th,8 ,Windows 11,256 gb ssd,113990.0
+324,microsoft,intel 12th,16,Windows 11,256 gb ssd,162990.0
+325,microsoft,intel 12th,32,Windows 11,1 tb ssd,261990.0
+326,microsoft,intel 12th,8 ,Windows 11,256 gb ssd,103990.0
+327,microsoft,intel 12th,16,Windows 11,512 gb ssd,172990.0
+328,hp,intel i7 12th,16,Windows 11,512 gb ssd,145999.0
+329,lenovo,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,63990.0
+330,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,56991.0
+331,lenovo,intel i5 12th,16,Windows 11,512 gb ssd,68200.0
+332,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,40990.0
+333,lenovo,intel i3 12th,8 ,Windows 11,512 gb ssd,45990.0
+335,apple,apple m2,16,macos,512 gb ssd,249900.0
+338,apple,apple m2,32,macos,1 tb ssd,309900.0
+342,samsung,intel i7 13th,16,Windows 11,512 gb ssd,89990.0
+343,samsung,intel i5 13th,16,Windows 11,512 gb ssd,79990.0
+345,lenovo,intel i3 11th,8 ,Windows 11,256 gb ssd,33990.0
+346,asus,intel i7 11th,16,Windows 11,512 gb ssd,56990.0
+347,infinix,intel i3 10th,8 ,Windows 11,256 gb ssd,29990.0
+348,hp,intel i7 12th,16,Windows 11,512 gb ssd,130999.0
+349,lenovo,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,55999.0
+350,lenovo,amd ryzen  7 ,16,Windows 11,512 gb ssd,97990.0
+351,lenovo,intel i7 12th,16,Windows 11,512 gb ssd,119900.0
+352,infinix,intel i3 10th,8 ,Windows 11,512 gb ssd,32990.0
+353,asus,intel i5 12th,16,Windows 11,512 gb ssd,109990.0
+354,dell,intel i5 12th,16,Windows 11,512 gb ssd,85944.0
+355,dell,intel i5 12th,16,Windows 11,512 gb ssd,74616.0
+356,lenovo,intel i7 12th,32,Windows 11,1 tb ssd,205990.0
+357,lenovo,amd ryzen  7  octa,32,Windows 11,1 tb ssd,181990.0
+358,acer,amd ryzen  5 ,8 ,Windows 11,256 gb ssd,33990.0
+359,dell,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,43499.0
+360,lenovo,intel i5,8 ,Windows 11,1 tb ,57990.0
+361,asus,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,53990.0
+362,hp,intel i3 11th,8 ,Windows 11,256 gb ssd,45999.0
+363,asus,amd ryzen  7 ,16,Windows 11,1 tb ssd,157990.0
+364,asus,amd ryzen  7 ,16,Windows 11,1 tb ssd,136990.0
+365,asus,amd ryzen  7 ,16,Windows 11,1 tb ssd,114999.0
+366,lenovo,intel i3,8 ,Windows 11,512 gb ssd,59990.0
+367,hp,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,67999.0
+368,hp,amd ryzen  7 ,16,Windows 11,512 gb ssd,79199.0
+369,hp,amd ryzen  3 ,8 ,Windows 11,256 gb ssd,32999.0
+370,asus,intel i3 12th,8 ,Windows 11,256 gb ssd,39990.0
+371,lenovo,amd ryzen  5 ,16,Windows 11,512 gb ssd,67990.0
+372,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,82144.0
+373,microsoft,amd ryzen  5 ,8 ,Windows 11,256 gb ssd,93990.0
+374,microsoft,intel i5 11th,16,Windows 11,512 gb ssd,153990.0
+375,hp,intel i7 12th,16,Windows 11,1 tb ssd,123999.0
+376,microsoft,intel 12th,16,Windows 11,512 gb ssd,182990.0
+377,lenovo,amd ryzen  7 ,16,Windows 11,512 gb ssd,75990.0
+378,lenovo,intel i7,16,Windows 11,512 gb ssd,111990.0
+379,lenovo,intel i7 12th,16,Windows 11,512 gb ssd,107990.0
+380,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,50990.0
+381,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,52990.0
+382,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,64990.0
+383,lenovo,amd ryzen  7  octa,16,Windows 11,512 gb ssd,86990.0
+384,lenovo,intel i7 12th,16,Windows 11,512 gb ssd,121990.0
+385,asus,amd ryzen  7 ,16,Windows 11,1 tb ssd,157999.0
+387,asus,intel i5 10th,16,Windows 11,512 gb ssd,60990.0
+388,asus,intel i7 12th,16,Windows 11,1 tb ssd,139990.0
+389,lenovo,amd ryzen  7 ,16,Windows 11,512 gb ssd,79990.0
+390,lenovo,intel i5 12th,16,Windows 11,512 gb ssd,77990.0
+391,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,66599.0
+392,dell,amd ryzen  3 ,8 ,Windows 11,512 gb ssd,31144.0
+393,hp,intel i5 12th,16,Windows 11,512 gb ssd,76999.0
+394,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,63999.0
+395,dell,intel i3 12th,8 ,Windows 11,512 gb ssd,59144.0
+396,lenovo,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,76990.0
+397,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,67416.0
+398,dell,intel i5 12th,16,Windows 11,512 gb ssd,90698.0
+399,lenovo,intel i5 11th,16,Windows 11,512 gb ssd,71990.0
+400,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,85990.0
+401,dell,intel i5 12th,16,Windows 11,512 gb ssd,161999.0
+402,lenovo,intel i5 12th,16,Windows 11,512 gb ssd,59490.0
+403,hp,intel i7 12th,16,Windows 11,512 gb ssd,105999.0
+404,microsoft,intel 12th,16,Windows 11,512 gb ssd,192990.0
+405,microsoft,intel 12th,8 ,Windows 11,256 gb ssd,134990.0
+406,lenovo,amd ryzen  5 ,8 ,Windows 11,512 gb ssd,55990.0
+407,lenovo,amd ryzen  5 ,16,Windows 11,512 gb ssd,69990.0
+409,lenovo,intel i7 13th,16,Windows 11,1 tb ssd,174990.0
+410,asus,intel i5 10th,8 ,Windows 11,512 gb ssd,46990.0
+517,asus,amd ryzen  7  quad,16,Windows 11,1 tb ssd,89900.0
+519,asus,intel i9 12th,32,Windows 11,1 tb ssd,201000.0
+520,hp,intel i7 11th,16,Windows 11,1 tb ssd,120000.0
+521,dell,amd ryzen  5  quad,8 ,Windows 11,1 tb ssd,52990.0
+522,hp,amd ryzen  3  dual,4 ,Windows 11,1 tb hdd,26990.0
+523,asus,amd ryzen  7  quad,16,Windows 11,1 tb ssd,105000.0
+524,hp,intel i5 12th,8 ,Windows 11,512 gb ssd,57990.0
+525,asus,amd ryzen  7  quad,16,Windows 11,1 tb ssd,88000.0
+526,asus,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,41990.0
+527,asus,amd ryzen  5  octa,8 ,Windows 11,512 gb ssd,53990.0
+528,asus,intel i5 12th,8 ,Windows 11,512 gb ssd,53450.0
+529,asus,intel i7 11th,16,Windows 11,512 gb ssd,72300.0
+530,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,34990.0
+531,asus,intel i9 13th,32,Windows 11,1 tb ssd,279990.0
+532,asus,amd ryzen  5  quad,8 ,Windows 11,512 gb ssd,59990.0
+533,asus,amd ryzen  5  hexa,16,Windows 11,1 tb ssd,97107.0
+534,lenovo,intel i7 12th,16,Windows 11,512 gb ssd,164280.0
+535,lenovo,amd ryzen  7  octa,16,Windows 11,512 gb ssd,84990.0
+536,msi,intel i7 13th,8 ,Windows 11,512 gb ssd,74990.0
+537,msi,intel i7 13th,32,Windows 11,1 tb ssd,189990.0
+538,msi,intel i7 13th,16,Windows 11,1 tb ssd,129990.0
+539,samsung,intel i7 13th,16,Windows 11,512 gb ssd,89990.0
+540,msi,intel i3 12th,8 ,Windows 11,256 gb ssd,45990.0
+551,msi,intel i3 12th,8 ,Windows 11,512 gb ssd,48990.0
+552,asus,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,75476.0
+553,acer,intel i5 12th,16,Windows 11,512 gb ssd,56990.0
+554,samsung,intel i5 13th,16,Windows 11,512 gb ssd,79990.0
+558,acer,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,62990.0
+559,msi,intel i9 13th,32,Windows 11,2 tb ssd,359990.0
+560,asus,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,47990.0
+561,msi,intel i7 13th,16,Windows 11,512 gb ssd,99990.0
+562,msi,intel i7 12th,16,Windows 11,512 gb ssd,102990.0
+563,acer,intel i3 11th,8 ,Windows 11,512 gb ssd,36990.0
+567,dell,intel i5 11th,8 ,Windows 10,512 gb ssd,77480.0
+568,msi,intel i3 11th,8 ,Windows 11,512 gb ssd,37990.0
+569,asus,intel i3 12th,8 ,Windows 11,512 gb ssd,44990.0
+571,asus,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,59990.0
+572,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,99990.0
+574,msi,intel i5 11th,8 ,Windows 11,512 gb ssd,45990.0
+575,msi,intel i7 13th,16,Windows 11,1 tb ssd,124990.0
+576,asus,intel i7 12th,16,Windows 11,1 tb ssd,98900.0
+578,asus,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,40980.0
+579,dell,intel i9 12th,32,Windows 11,1 tb hdd,334990.0
+582,msi,intel i7 13th,16,Windows 11,1 tb ssd,147990.0
+587,asus,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,74990.0
+588,asus,amd ryzen  5  quad,16,Windows 11,512 gb ssd,67000.0
+589,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,59500.0
+590,lenovo,intel i3 11th,8 ,Windows 11,256 gb ssd,34000.0
+592,lenovo,intel i7 11th,16,Windows 10,512 gb ssd,151060.0
+593,hp,intel i5 13th,16,Windows 11,1 tb ssd,79990.0
+594,acer,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,79990.0
+595,asus,amd ryzen  5  quad,8 ,Windows 11,512 gb ssd,52990.0
+596,msi,intel i5 13th,8 ,Windows 11,512 gb ssd,62990.0
+598,lenovo,intel i3 11th,8 ,Windows 11,256 gb ssd,33490.0
+599,hp,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,69990.0
+600,hp,amd ryzen  3  quad,8 ,dos,512 gb ssd,26490.0
+601,samsung,intel i5 13th,8 ,Windows 11,512 gb ssd,74990.0
+602,asus,amd ryzen  5  hexa,16,Windows 11,1 tb ssd,66990.0
+603,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,82350.0
+604,asus,amd ryzen  5  hexa,8 ,Windows 11,1 tb ssd,59990.0
+605,msi,intel i7 13th,32,Windows 11,1 tb ssd,219990.0
+606,lenovo,intel i3 11th,8 ,dos,512 gb ssd,71068.0
+607,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,80990.0
+608,msi,intel i5 13th,8 ,Windows 11,512 gb ssd,64990.0
+609,asus,amd ryzen  5  quad,8 ,Windows 11,512 gb ssd,52990.0
+610,hp,intel i5 11th,8 ,Windows 11,512 gb ssd,48990.0
+611,msi,intel i7 13th,16,Windows 11,512 gb ssd,75990.0
+612,dell,intel i3 12th,8 ,Windows 11,512 gb ssd,45399.0
+613,asus,intel i9 13th,32,Windows 11,1 tb ssd,301489.0
+614,asus,intel i9 13th,32,Windows 11,2 tb ssd,364990.0
+615,lenovo,amd ryzen  5  octa,8 ,Windows 11,512 gb ssd,85250.0
+616,lenovo,intel i5 12th,8 ,Windows 11,512 gb ssd,126792.0
+617,asus,intel i3 11th,8 ,Windows 11,512 gb ssd,38990.0
+618,msi,intel i7 13th,16,Windows 11,1 tb ssd,129990.0
+619,hp,intel i5 11th,8 ,dos,512 gb hdd,50740.0
+620,lenovo,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,49863.0
+621,acer,amd ryzen  5  quad,8 ,Windows 11,512 gb ssd,46990.0
+622,msi,intel i5 12th,16,Windows 11,512 gb ssd,92990.0
+623,dell,intel i9 12th,32,Windows 11,1 tb hdd,304990.0
+624,msi,intel i7 13th,16,Windows 11,512 gb ssd,94990.0
+626,acer,intel i5 12th,16,Windows 11,512 gb ssd,84990.0
+627,lenovo,intel i5 11th,8 ,dos,512 gb ssd,109000.0
+628,msi,intel i7 13th,16,Windows 11,1 tb ssd,119990.0
+629,msi,intel i5 12th,16,Windows 11,512 gb ssd,59990.0
+630,acer,intel i3 11th,8 ,Windows 11,256 gb ssd,34990.0
+631,dell,intel i3 11th,8 ,Windows 10,256 gb ssd,71925.0
+632,hp,amd ryzen  7  octa,16,Windows 11,512 gb ssd,94500.0
+633,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,82500.0
+634,lenovo,amd ryzen  5  octa,8 ,dos,512 gb hdd,75250.0
+637,lenovo,intel i3 11th,4 ,dos,256 gb ssd,71068.0
+638,asus,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,68990.0
+639,lenovo,intel i5 12th,8 ,dos,512 gb ssd,114394.0
+640,lenovo,intel i5 11th,16,Windows 11,512 gb ssd,113692.0
+641,hp,amd ryzen  7  octa,16,Windows 11,1 tb ssd,79990.0
+643,asus,amd ryzen  7  quad,16,Windows 11,1 tb ssd,107900.0
+644,asus,intel i9 13th,32,Windows 11,1 tb ssd,279990.0
+645,msi,intel i5 12th,8 ,Windows 11,512 gb ssd,56990.0
+646,asus,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,89990.0
+648,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,81774.0
+652,acer,intel i7 12th,16,Windows 11,1 tb ssd,129990.0
+653,acer,amd ryzen  5  quad,8 ,Windows 11,512 gb ssd,44990.0
+655,msi,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,47990.0
+658,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,70990.0
+659,msi,intel i5 13th,16,Windows 11,512 gb ssd,67990.0
+660,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,104990.0
+678,hp,intel i5 11th,16,Windows 11,512 gb ssd,62990.0
+679,apple,apple m2,8 ,macos,512 gb ssd,139000.0
+680,apple,apple m2,16,macos,512 gb ssd,249900.0
+681,hp,intel i7 12th,16,Windows 11,512 gb ssd,92890.0
+682,hp,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,36990.0
+683,lenovo,intel i7 12th,16,Windows 11,1 tb ssd,180393.0
+684,lenovo,amd ryzen  7  octa,16,Windows 11,1 tb ssd,159990.0
+685,samsung,intel i7 12th,16,Windows 11,512 gb ssd,72990.0
+686,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,157990.0
+687,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,157990.0
+688,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,58590.0
+689,apple,apple m2,16,macos,256 gb ssd,137900.0
+690,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,96990.0
+691,lenovo,intel i7 12th,16,Windows 11,1 tb ssd,179079.0
+692,lenovo,intel i3 11th,8 ,Windows 11,1 tb hdd,40490.0
+693,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,53490.0
+694,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,55990.0
+695,hp,intel i3 11th,8 ,Windows 11,256 gb ssd,39990.0
+696,infinix,intel i5 12th,16,Windows 11,512 gb ssd,56990.0
+697,asus,intel i7 12th,16,Windows 11,1 tb ssd,97990.0
+698,msi,intel i7 12th,16,Windows 11,512 gb ssd,67990.0
+699,hp,amd ryzen  7  octa,16,Windows 11,512 gb ssd,82990.0
+701,hp,intel i5 12th,16,Windows 11,512 gb ssd,76490.0
+704,asus,intel i5 12th,16,Windows 11,512 gb ssd,83990.0
+705,acer,amd ryzen  7  octa,16,Windows 11,1 tb ssd,138999.0
+706,infinix,intel i3 10th,8 ,Windows 11,256 gb ssd,29990.0
+707,hp,amd ryzen  9  octa,32,Windows 11,1 tb ssd,155390.0
+709,lenovo,intel i7 12th,16,Windows 11,1 tb ssd,159990.0
+710,acer,amd ryzen  5  hexa,8 ,Windows 11,1 tb ssd,84990.0
+711,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,44790.0
+712,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,86990.0
+713,lenovo,amd ryzen  7  octa,32,Windows 11,1 tb ssd,189990.0
+714,hp,intel i7 12th,16,Windows 11,512 gb ssd,85990.0
+715,hp,intel i5 12th,16,Windows 11,512 gb ssd,79990.0
+716,hp,intel i5 12th,16,Windows 11,512 gb ssd,71990.0
+718,hp,intel i3 11th,8 ,Windows 11,1 tb hdd,40990.0
+719,infinix,intel i3 10th,8 ,Windows 11,512 gb ssd,32990.0
+720,apple,apple m2,16,macos,256 gb ssd,129990.0
+721,asus,intel i5 12th,8 ,Windows 11,512 gb ssd,57350.0
+722,dell,intel i5 12th,8 ,Windows 11,1 tb hdd,69490.0
+723,acer,intel i7 12th,16,Windows 11,1 tb ssd,115999.0
+724,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,53500.0
+725,hp,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,95990.0
+726,apple,apple m2,16,macos,1 tb ssd,239990.0
+727,apple,apple m2,16,macos,512 gb ssd,199900.0
+728,apple,apple m2,16,macos,1 tb ssd,249900.0
+729,apple,apple m2,32,macos,1 tb ssd,309900.0
+730,apple,apple m2,32,macos,1 tb ssd,349900.0
+731,apple,apple m2,16,macos,512 gb ssd,239990.0
+732,apple,apple m2,32,macos,1 tb ssd,349900.0
+733,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,211990.0
+736,lenovo,intel i7 12th,16,Windows 11,1 tb ssd,164990.0
+737,infinix,intel i9 12th,32,Windows 11,1 tb ssd,89990.0
+738,samsung,intel i5 12th,16,Windows 11,512 gb ssd,63990.0
+739,apple,apple m2,16,macos,256 gb ssd,129990.0
+741,msi,intel i3 12th,8 ,Windows 11,512 gb ssd,41990.0
+742,apple,apple m2,8 ,macos,512 gb ssd,129990.0
+743,dell,intel i5 12th,16,Windows 11,512 gb ssd,110490.0
+746,asus,intel i3 12th,8 ,Windows 11,512 gb ssd,40990.0
+747,asus,intel i3 12th,8 ,Windows 11,512 gb ssd,40990.0
+748,hp,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,69990.0
+749,lenovo,intel i7 11th,32,Windows 10,1 tb ssd,155000.0
+751,dell,intel i3 12th,8 ,Windows 11,512 gb ssd,44490.0
+754,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,39990.0
+761,hp,intel i5 11th,8 ,Windows 11,512 gb ssd,59990.0
+766,hp,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,39990.0
+767,infinix,intel i5 11th,16,Windows 11,512 gb ssd,41990.0
+770,acer,intel i5 11th,16,Windows 11,512 gb ssd,94990.0
+774,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,39000.0
+775,hp,amd ryzen  3  dual,8 ,Windows 11,512 gb ssd,28790.0
+779,avita,amd ryzen  5  quad,8 ,Windows 10,512 gb ssd,29990.0
+781,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,146990.0
+782,hp,intel i7 12th,32,Windows 11,1 tb hdd,195000.0
+785,lenovo,intel i3 11th,4 ,dos,1 tb hdd,37000.0
+786,hp,intel i7 12th,16,Windows 11,1 tb ssd,113990.0
+787,hp,intel i5 12th,16,Windows 11,512 gb ssd,85490.0
+788,dell,intel i5 12th,16,Windows 11,512 gb ssd,91958.0
+789,lenovo,intel i3 11th,8 ,Windows 11,256 gb ssd,35990.0
+790,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,57990.0
+791,gigabyte,intel i7 12th,16,Windows 11,1 tb ssd,149990.0
+792,dell,intel i5 12th,8 ,Windows 11,1 tb hdd,58990.0
+793,lenovo,intel i5 11th,16,Windows 11,512 gb ssd,68990.0
+794,asus,intel i7 12th,16,Windows 11,1 tb ssd,101999.0
+795,acer,intel i5 12th,16,Windows 11,512 gb ssd,73990.0
+796,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,79500.0
+797,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,99996.0
+798,hp,intel i5 12th,16,Windows 11,512 gb ssd,93990.0
+799,acer,intel i3 12th,8 ,Windows 11,512 gb ssd,47990.0
+800,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,70430.0
+801,infinix,intel i3 11th,8 ,Windows 11,512 gb ssd,33990.0
+802,hp,intel i7 12th,16,Windows 11,1 tb ssd,108990.0
+803,dell,amd ryzen  3  quad,8 ,Windows 11,256 gb ssd,39990.0
+804,hp,amd ryzen  7  octa,16,Windows 11,1 tb ssd,135499.0
+805,asus,amd ryzen  7  octa,8 ,Windows 11,512 gb ssd,82990.0
+806,lenovo,intel i3 10th,4 ,Windows 11,256 gb ssd,31990.0
+807,acer,intel i5 12th,8 ,Windows 11,512 gb ssd,57990.0
+810,infinix,intel i3 11th,8 ,Windows 11,256 gb ssd,31990.0
+812,hp,intel i7 12th,16,Windows 11,512 gb ssd,103990.0
+813,lenovo,intel i5 11th,16,Windows 11,512 gb ssd,69990.0
+814,hp,intel i5 12th,16,Windows 11,512 gb ssd,89490.0
+815,dell,intel i3 10th,4 ,Windows 11,1 tb hdd,42490.0
+816,dell,amd ryzen  3  dual,8 ,Windows 11,1 tb hdd,44000.0
+817,lenovo,intel i5 12th,8 ,Windows 11,512 gb ssd,61255.0
+818,gigabyte,intel i7 12th,16,Windows 11,1 tb ssd,193990.0
+819,asus,intel i7 11th,16,Windows 11,512 gb ssd,55990.0
+820,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,115990.0
+821,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,57490.0
+822,lenovo,intel i3 10th,8 ,Windows 11,256 gb ssd,33990.0
+823,lenovo,intel i5 12th,16,Windows 11,512 gb ssd,83990.0
+824,lenovo,amd ryzen  7  octa,32,Windows 11,1 tb ssd,179990.0
+826,dell,intel i3 11th,8 ,Windows 11,1 tb hdd,44990.0
+827,dell,amd ryzen  5  quad,8 ,Windows 11,512 gb ssd,44091.0
+828,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,89490.0
+840,hp,intel i5 12th,8 ,Windows 11,512 gb ssd,81490.0
+841,lenovo,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,92290.0
+842,hp,intel i5 12th,16,Windows 11,512 gb ssd,81990.0
+845,dell,intel i5 12th,16,Windows 11,512 gb ssd,73990.0
+846,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,59779.0
+848,gigabyte,intel i5 12th,16,Windows 11,512 gb ssd,85990.0
+849,hp,amd ryzen  3  dual,8 ,Windows 11,256 gb ssd,35500.0
+850,lenovo,intel i7 12th,16,Windows 11,512 gb ssd,139490.0
+851,lenovo,intel i3 11th,8 ,Windows 11,1 tb hdd,38490.0
+852,hp,intel i5 12th,16,Windows 11,512 gb ssd,78500.0
+853,dell,intel i5 12th,16,Windows 11,512 gb ssd,73990.0
+854,dell,intel i3 11th,8 ,Windows 11,512 gb ssd,45990.0
+855,lenovo,intel i5 11th,16,Windows 11,512 gb ssd,69990.0
+856,lenovo,amd ryzen  7  octa,16,Windows 11,1 tb ssd,131990.0
+857,lenovo,intel i7 12th,16,Windows 11,512 gb ssd,118990.0
+858,dell,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,50990.0
+859,dell,amd ryzen  7  octa,16,Windows 11,1 tb ssd,158990.0
+860,asus,intel i7 12th,16,Windows 11,512 gb ssd,104990.0
+861,lenovo,intel i5 11th,16,Windows 11,512 gb ssd,57490.0
+862,lenovo,intel i5 12th,16,Windows 11,512 gb ssd,99290.0
+863,dell,intel i3 11th,8 ,Windows 11,512 gb ssd,44490.0
+864,lenovo,amd ryzen  7  octa,16,Windows 11,512 gb ssd,114990.0
+865,lenovo,amd ryzen  7  octa,16,Windows 11,1 tb ssd,159990.0
+866,dell,intel i7 12th,16,Windows 11,512 gb ssd,123990.0
+867,dell,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,54990.0
+868,dell,intel i9 12th,16,Windows 11,1 tb ssd,138990.0
+869,dell,intel i3 12th,8 ,Windows 11,512 gb ssd,45490.0
+870,dell,intel i7 12th,32,Windows 11,1 tb ssd,280490.0
+871,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,63890.0
+872,dell,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,63331.0
+873,dell,amd athlon dual core processor,8 ,Windows 11,256 gb ssd,49852.0
+874,dell,intel i5 11th,16,Windows 11,512 gb ssd,99990.0
+875,dell,intel i5 11th,16,Windows 11,512 gb ssd,67500.0
+876,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,69490.0
+880,lenovo,intel i5 12th,8 ,Windows 11,512 gb ssd,75990.0
+881,dell,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,57890.0
+885,lenovo,intel i5 12th,16,Windows 11,512 gb ssd,84990.0
+886,lenovo,amd ryzen  7  octa,16,Windows 11,512 gb ssd,86510.0
+887,lenovo,intel i7 12th,16,Windows 11,512 gb ssd,119990.0
+892,lenovo,amd ryzen  7  octa,16,Windows 11,512 gb ssd,97890.0
+894,lenovo,intel i3 12th,8 ,Windows 11,512 gb ssd,86690.0
+897,dell,intel i3 11th,8 ,Windows 11,512 gb ssd,47500.0
+898,dell,intel i7 12th,16,Windows 11,1 tb ssd,246490.0
+913,dell,intel i7 12th,32,Windows 11,1 tb ssd,246490.0
+914,dell,intel i5 12th,16,Windows 11,512 gb ssd,73490.0
+915,dell,intel i7 12th,16,Windows 11,512 gb ssd,168990.0
+920,asus,amd ryzen  7  octa,8 ,Windows 11,512 gb ssd,74990.0
+921,hp,amd ryzen  3  dual,8 ,Windows 11,1 tb hdd,35500.0
+922,hp,intel i5 12th,8 ,Windows 11,512 gb ssd,69990.0
+923,infinix,intel i5 11th,8 ,Windows 11,512 gb ssd,39990.0
+924,hp,intel i7 12th,16,Windows 11,1 tb ssd,170399.0
+925,gigabyte,intel i5 11th,16,Windows 11,512 gb ssd,64990.0
+926,hp,amd ryzen  7  octa,16,Windows 11,512 gb ssd,56990.0
+927,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,40990.0
+929,asus,intel i7 12th,16,Windows 11,1 tb ssd,329990.0
+930,hp,intel i7 12th,16,Windows 11,1 tb ssd,161000.0
+931,hp,amd ryzen  7  octa,16,Windows 11,512 gb ssd,106199.0
+932,lenovo,amd ryzen  7  octa,16,Windows 11,1 tb ssd,144998.0
+933,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,86990.0
+934,hp,amd ryzen  7  octa,16,Windows 11,512 gb ssd,104500.0
+935,hp,intel i5 11th,16,Windows 11,512 gb ssd,124425.0
+936,asus,intel i5 11th,16,Windows 11,1 tb hdd,64990.0
+937,asus,intel i9 12th,32,Windows 11,1 tb ssd,281990.0
+938,hp,amd ryzen  5  hexa,8 ,Windows 10,512 gb ssd,59000.0
+940,lenovo,intel celeron,4 ,chrome,,28490.0
+941,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,79990.0
+942,hp,intel i9 12th,32,Windows 11,2 tb ssd,298990.0
+943,hp,intel i7 12th,16,Windows 11,1 tb ssd,93990.0
+944,asus,intel i3 12th,8 ,Windows 11,512 gb ssd,50990.0
+945,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,162990.0
+946,lenovo,amd ryzen  7  octa,32,Windows 11,1 tb ssd,179998.0
+947,gigabyte,intel i5 11th,16,Windows 11,512 gb ssd,76990.0
+948,dell,intel i7 12th,16,Windows 11,512 gb ssd,89990.0
+949,dell,intel i5 11th,8 ,Windows 11,256 gb ssd,63499.0
+950,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,64990.0
+951,infinix,intel i7 11th,16,Windows 11,512 gb ssd,48990.0
+952,lenovo,intel i5 12th,8 ,Windows 11,512 gb ssd,66990.0
+953,hp,amd ryzen  7  octa,8 ,Windows 11,512 gb ssd,78990.0
+954,hp,amd ryzen  7  octa,16,Windows 11,512 gb ssd,107699.0
+955,hp,intel i7 12th,16,Windows 11,512 gb ssd,125990.0
+956,hp,intel i5 12th,8 ,Windows 11,512 gb ssd,112000.0
+957,asus,amd ryzen  5  hexa,8 ,Windows 11,1 tb ssd,65990.0
+958,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,40980.0
+963,hp,intel i7 12th,32,Windows 11,1 tb ssd,198990.0
+965,asus,intel i5 12th,16,Windows 11,512 gb ssd,63990.0
+966,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,44490.0
+967,hp,intel i7 12th,16,Windows 11,1 tb ssd,154080.0
+968,asus,intel i5 11th,16,Windows 11,512 gb ssd,55990.0
+969,asus,intel i3 10th,8 ,Windows 11,256 gb ssd,32990.0
+970,hp,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,49550.0
+971,asus,intel i5 12th,16,Windows 11,512 gb ssd,89990.0
+973,lenovo,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,56200.0
+974,dell,intel i5 11th,16,Windows 11,512 gb ssd,69900.0
+976,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,211990.0
+977,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,178990.0
+978,msi,intel i7 12th,16,Windows 11,512 gb ssd,99990.0
+979,msi,intel i9 12th,16,Windows 11,1 tb ssd,119990.0
+980,msi,intel i7 12th,8 ,Windows 11,512 gb ssd,80990.0
+982,asus,amd ryzen  7  quad,16,Windows 11,1 tb hdd,160990.0
+983,dell,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,54490.0
+984,lenovo,amd ryzen  5  hexa,8 ,Windows 11,1 tb hdd,56790.0
+985,lenovo,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,53500.0
+986,asus,intel i5 10th,16,Windows 11,512 gb ssd,63980.0
+987,asus,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,54990.0
+988,acer,amd ryzen  5  quad,8 ,Windows 11,512 gb ssd,45500.0
+989,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,40500.0
+990,acer,intel i5 12th,8 ,Windows 11,512 gb ssd,69990.0
+991,hp,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,49990.0
+993,hp,intel i5 12th,8 ,Windows 11,512 gb ssd,58400.0
+994,asus,intel i5 12th,8 ,Windows 11,512 gb ssd,56990.0
+995,msi,intel i7 12th,16,Windows 11,1 tb ssd,134990.0
+996,hp,intel celeron,4 ,chrome,,23990.0
+997,hp,intel i5 12th,16,Windows 11,512 gb ssd,60990.0
+998,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,59990.0
+1000,hp,intel i5 12th,16,Windows 11,512 gb ssd,62990.0
+1001,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,151990.0
+1002,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,50990.0
+1003,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,40800.0
+1004,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,79990.0
+1005,dell,intel i3 11th,8 ,Windows 11,256 gb ssd,44200.0
+1006,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,174990.0
+1007,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,177990.0
+1008,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,89690.0
+1009,msi,intel i7 12th,16,Windows 11,1 tb ssd,109990.0
+1010,msi,intel i9 12th,32,Windows 11,2 tb ssd,299990.0
+1011,msi,intel i5 11th,8 ,Windows 11,512 gb ssd,52490.0
+1012,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,71990.0
+1013,hp,intel i5 12th,16,Windows 11,512 gb ssd,76999.0
+1014,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,191900.0
+1015,lenovo,intel i5 12th,16,Windows 11,512 gb ssd,59990.0
+1016,msi,intel i7 12th,16,Windows 11,1 tb ssd,149990.0
+1017,asus,intel i3 12th,8 ,Windows 11,512 gb ssd,42990.0
+1018,asus,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,55990.0
+1019,lenovo,amd ryzen  3  dual,4 ,dos,512 gb ssd,34500.0
+1020,hp,amd ryzen  7  octa,16,Windows 11,512 gb ssd,108490.0
+1025,lenovo,intel i3 11th,8 ,Windows 11,256 gb ssd,33639.0
+1030,acer,intel i9 12th,16,Windows 11,1 tb ssd,159990.0
+1032,asus,intel pentium,8 ,Windows 11,256 gb ssd,32900.0
+1033,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,171990.0
+1034,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,187990.0
+1035,hp,intel i5 12th,16,Windows 11,512 gb ssd,66498.0
+1036,asus,intel i7 12th,16,Windows 11,1 tb ssd,149990.0
+1037,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,161990.0
+1052,asus,amd ryzen  3  dual,8 ,Windows 11,512 gb ssd,34990.0
+1054,hp,amd ryzen  3  quad,8 ,dos,512 gb ssd,30100.0
+1058,msi,intel i5 12th,8 ,Windows 11,512 gb ssd,73490.0
+1061,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,71857.0
+1064,asus,intel i5 12th,16,Windows 11,512 gb ssd,93990.0
+1065,lenovo,intel i5 12th,8 ,Windows 11,512 gb ssd,85998.0
+1067,asus,intel i3 11th,8 ,Windows 11,512 gb ssd,35990.0
+1068,dell,amd ryzen  7  octa,16,Windows 11,512 gb ssd,99990.0
+1069,dell,amd ryzen  7  octa,16,Windows 11,512 gb ssd,126990.0
+1070,dell,intel i7 12th,16,Windows 11,512 gb ssd,89990.0
+1071,hp,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,48990.0
+1072,dell,intel i7 12th,16,Windows 11,512 gb ssd,104890.0
+1073,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,114990.0
+1074,asus,amd ryzen  9  octa,32,Windows 11,1 tb ssd,191990.0
+1075,asus,amd ryzen  9  octa,32,Windows 11,1 tb ssd,191990.0
+1076,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,65990.0
+1077,hp,intel i5 12th,8 ,Windows 11,512 gb ssd,65990.0
+1078,asus,intel i5 11th,8 ,Windows 11,512 gb ssd,45990.0
+1079,hp,intel i7 12th,16,Windows 11,1 tb ssd,116899.0
+1081,msi,intel i5 11th,8 ,Windows 10,512 gb ssd,59498.0
+1082,msi,intel i5 12th,16,Windows 11,512 gb ssd,85990.0
+1083,dell,amd ryzen  3  quad,8 ,Windows 11,256 gb ssd,37880.0
+1084,hp,amd ryzen  7  octa,8 ,Windows 11,512 gb ssd,62990.0
+1085,apple,apple m2,8 ,macos,256 gb ssd,119900.0
+1086,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,43000.0
+1087,asus,amd ryzen  9  octa,32,Windows 11,2 tb ssd,361990.0
+1088,asus,amd ryzen  7  octa,32,Windows 11,1 tb ssd,284990.0
+1089,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,147990.0
+1090,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,157990.0
+1091,infinix,intel celeron,8 ,Windows 11,256 gb ssd,29990.0
+1092,infinix,intel celeron,4 ,Windows 11,128 gb ssd ssd,21990.0
+1094,hp,intel i3 11th,8 ,Windows 11,1 tb hdd,39990.0
+1095,asus,intel i7 12th,16,Windows 11,1 tb ssd,134990.0
+1096,asus,intel i7 12th,16,Windows 11,1 tb ssd,139990.0
+1097,asus,intel i9 12th,32,Windows 11,1 tb ssd,249990.0
+1098,asus,intel i5 12th,16,Windows 11,512 gb ssd,109990.0
+1099,asus,intel i7 12th,32,Windows 11,1 tb ssd,239990.0
+1100,asus,intel i9 12th,32,Windows 11,1 tb ssd,159990.0
+1101,asus,intel pentium,8 ,Windows 11,256 gb ssd,32900.0
+1102,msi,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,49990.0
+1103,msi,amd ryzen  7  octa,8 ,Windows 11,512 gb ssd,52990.0
+1104,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,146990.0
+1105,asus,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,54990.0
+1106,hp,intel i7 12th,16,Windows 11,512 gb ssd,94990.0
+1107,acer,intel pentium,4 ,Windows 11,256 gb ssd,26490.0
+1108,acer,intel celeron,4 ,Windows 11,256 gb ssd,41999.0
+1109,dell,intel i3 11th,8 ,Windows 11,512 gb ssd,42990.0
+1110,dell,intel i3 11th,8 ,Windows 11,512 gb ssd,46000.0
+1111,dell,intel i3 12th,8 ,Windows 11,512 gb ssd,68990.0
+1113,asus,intel i7 12th,16,Windows 11,1 tb ssd,101990.0
+1114,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,39490.0
+1115,hp,amd athlon dual core processor,8 ,Windows 11,256 gb ssd,25190.0
+1116,hp,amd ryzen  3  dual,8 ,Windows 11,256 gb ssd,35500.0
+1117,acer,intel i3 11th,8 ,Windows 11,512 gb ssd,34990.0
+1118,dell,amd ryzen  7  octa,16,Windows 11,512 gb ssd,73890.0
+1119,msi,intel i7 11th,16,Windows 10,512 gb ssd,79990.0
+1120,dell,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,43490.0
+1121,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,82990.0
+1122,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,62400.0
+1123,dell,intel i3 11th,8 ,Windows 11,256 gb ssd,38990.0
+1124,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,211990.0
+1125,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,174990.0
+1126,asus,intel i7 12th,16,Windows 11,1 tb ssd,199990.0
+1127,asus,intel i5 10th,8 ,Windows 11,1 tb ssd,58990.0
+1128,hp,intel i7 12th,16,Windows 11,512 gb ssd,103699.0
+1129,asus,intel i7 12th,16,Windows 11,1 tb ssd,110703.0
+1130,asus,intel i7 12th,16,Windows 11,512 gb ssd,174990.0
+1131,lenovo,amd ryzen  7  octa,8 ,Windows 11,512 gb ssd,76990.0
+1132,hp,intel i5 12th,8 ,Windows 11,512 gb ssd,76800.0
+1133,acer,intel pentium,8 ,Windows 11,256 gb ssd,28490.0
+1134,asus,amd ryzen  7  octa,32,Windows 11,2 tb ssd,224990.0
+1135,dell,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,41890.0
+1136,hp,amd ryzen  7  octa,8 ,Windows 11,512 gb ssd,74990.0
+1137,hp,amd ryzen  3  dual,8 ,Windows 11,256 gb ssd,35999.0
+1138,dell,intel i3 12th,8 ,Windows 11,256 gb ssd,56749.0
+1139,asus,amd ryzen  9  octa,32,Windows 11,2 tb ssd,391990.0
+1140,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,189990.0
+1141,msi,intel i7 12th,16,Windows 11,1 tb ssd,114990.0
+1142,hp,amd ryzen  7  octa,8 ,Windows 11,512 gb ssd,95190.0
+1143,hp,amd ryzen  7  octa,16,Windows 11,512 gb ssd,99990.0
+1144,apple,apple m2,8 ,macos,256 gb ssd,119990.0
+1145,apple,apple m2,8 ,macos,512 gb ssd,139990.0
+1146,apple,apple m2,8 ,macos,512 gb ssd,149990.0
+1147,apple,apple m2,8 ,macos,256 gb ssd,112990.0
+1148,dell,intel i5 12th,16,Windows 11,512 gb ssd,82990.0
+1150,asus,amd ryzen  7  octa,32,Windows 11,1 tb ssd,177900.0
+1151,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,171990.0
+1152,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,149700.0
+1153,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,129990.0
+1154,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,189990.0
+1155,asus,amd ryzen  7  octa,32,Windows 11,1 tb ssd,167990.0
+1156,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,38000.0
+1157,asus,intel i9 12th,16,Windows 11,1 tb ssd,219990.0
+1158,asus,intel i5 12th,8 ,Windows 11,512 gb ssd,75490.0
+1159,asus,intel i5 12th,16,Windows 11,512 gb ssd,89990.0
+1160,asus,intel i5 12th,16,Windows 11,512 gb ssd,79990.0
+1162,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,74000.0
+1163,dell,intel i5 12th,16,Windows 11,512 gb ssd,85990.0
+1164,lenovo,intel celeron,4 ,Windows 10,128 gb ssd ssd,23799.0
+1165,dell,intel i3 11th,8 ,Windows 11,512 gb ssd,44331.0
+1166,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,92990.0
+1167,asus,intel i3 12th,8 ,Windows 11,512 gb ssd,42590.0
+1168,asus,intel i3 12th,8 ,Windows 11,256 gb ssd,41950.0
+1169,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,67990.0
+1170,acer,intel celeron,8 ,Windows 11,256 gb ssd,26990.0
+1171,msi,intel i7 11th,16,Windows 10,1 tb ssd,129990.0
+1172,asus,intel i5 11th,8 ,Windows 11,1 tb ssd,85990.0
+1173,acer,intel i5 11th,8 ,Windows 11,512 gb ssd,42990.0
+1174,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,61499.0
+1175,asus,intel i3 10th,8 ,Windows 11,1 tb hdd,28990.0
+1176,msi,intel i5 12th,16,Windows 11,512 gb ssd,76990.0
+1178,dell,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,69490.0
+1187,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,76960.0
+1188,acer,intel i5 12th,16,Windows 11,512 gb ssd,65200.0
+1196,hp,amd athlon dual core processor,8 ,Windows 11,512 gb ssd,29490.0
+1201,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,77490.0
+1203,dell,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,66990.0
+1206,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,59990.0
+1207,acer,intel i3 11th,8 ,Windows 11,256 gb ssd,32990.0
+1208,hp,intel i7 12th,8 ,Windows 11,512 gb ssd,82990.0
+1209,dell,amd ryzen  7  octa,16,Windows 11,512 gb ssd,88990.0
+1210,asus,intel i3 11th,8 ,Windows 11,512 gb ssd,42990.0
+1211,asus,intel i3 11th,8 ,Windows 11,512 gb ssd,38990.0
+1212,hp,intel i3 11th,8 ,dos,512 gb ssd,36500.0
+1213,hp,intel i5 11th,16,Windows 11,512 gb ssd,71499.0
+1214,asus,intel i7 12th,16,Windows 11,1 tb ssd,114990.0
+1215,infinix,intel i3 10th,8 ,Windows 11,256 gb ssd,35990.0
+1216,acer,intel i5 12th,8 ,Windows 11,512 gb ssd,54990.0
+1217,hp,intel i5 10th,8 ,Windows 10,512 gb hdd,54890.0
+1218,lenovo,intel i5 12th,8 ,Windows 11,512 gb ssd,54990.0
+1219,asus,intel i7 12th,16,Windows 11,1 tb ssd,142000.0
+1220,asus,intel i7 12th,16,Windows 11,512 gb ssd,148590.0
+1221,asus,intel i5 12th,16,Windows 11,512 gb ssd,114650.0
+1222,lenovo,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,68990.0
+1223,lenovo,intel i5 11th,8 ,Windows 11,1 tb hdd,65990.0
+1224,acer,intel i7 12th,32,Windows 11,2 tb ssd,229990.0
+1225,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,61890.0
+1226,lenovo,amd ryzen  7  octa,16,Windows 10,512 gb ssd,98990.0
+1227,hp,intel i5 12th,16,Windows 11,512 gb ssd,71990.0
+1228,hp,intel i5 12th,16,Windows 11,512 gb ssd,74990.0
+1229,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,150990.0
+1231,infinix,intel i5 10th,8 ,Windows 11,512 gb ssd,36990.0
+1233,infinix,intel i5 10th,16,Windows 11,512 gb ssd,38990.0
+1236,acer,intel i7 12th,16,Windows 11,1 tb ssd,156490.0
+1237,asus,intel i9 12th,16,Windows 11,1 tb ssd,191990.0
+1238,asus,intel i9 12th,16,Windows 11,1 tb ssd,181990.0
+1239,hp,amd ryzen  7  octa,16,Windows 11,1 tb ssd,103500.0
+1240,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,67900.0
+1241,hp,intel i7 12th,16,Windows 11,1 tb ssd,89990.0
+1242,acer,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,59990.0
+1243,hp,intel i3 11th,8 ,Windows 11,256 gb ssd,45990.0
+1244,lenovo,amd ryzen  5  quad,8 ,Windows 11,512 gb ssd,48350.0
+1245,asus,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,99990.0
+1246,asus,intel i7 12th,16,Windows 11,1 tb ssd,149980.0
+1247,dell,intel i3 11th,8 ,Windows 11,256 gb ssd,57000.0
+1248,dell,amd ryzen  5  quad,8 ,Windows 11,256 gb ssd,46500.0
+1249,asus,intel i7 12th,16,Windows 11,1 tb ssd,118000.0
+1250,asus,intel i5 11th,8 ,Windows 11,512 gb ssd,49990.0
+1253,infinix,intel i3 10th,8 ,Windows 11,512 gb ssd,31990.0
+1254,lenovo,intel i3 10th,8 ,Windows 10,512 gb ssd,36500.0
+1255,dell,intel i7 12th,16,Windows 11,512 gb ssd,105490.0
+1256,apple,apple m2,8 ,macos,512 gb ssd,149900.0
+1257,hp,amd ryzen  3  dual,8 ,Windows 11,512 gb ssd,34000.0
+1258,asus,intel i5 12th,16,Windows 11,512 gb ssd,74990.0
+1259,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,56990.0
+1260,lenovo,intel i3 11th,4 ,dos,256 gb ssd,35900.0
+1261,acer,amd ryzen  5  hexa,16,Windows 11,1 tb hdd,108000.0
+1262,acer,intel i3 11th,8 ,Windows 11,256 gb ssd,39500.0
+1263,asus,intel i5 10th,8 ,Windows 11,512 gb ssd,49990.0
+1264,asus,intel i5 12th,8 ,Windows 11,512 gb ssd,81990.0
+1265,asus,intel i9 12th,16,Windows 11,1 tb ssd,304980.0
+1266,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,85990.0
+1267,asus,intel i5 12th,16,Windows 11,512 gb ssd,93000.0
+1268,acer,intel i5 12th,8 ,Windows 11,512 gb ssd,64385.0
+1270,asus,intel i5 10th,8 ,Windows 11,512 gb ssd,60990.0
+1272,acer,amd athlon dual core processor,8 ,Windows 11,256 gb ssd,31200.0
+1273,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,53990.0
+1274,lenovo,amd ryzen  3  dual,8 ,Windows 11,512 gb ssd,36990.0
+1275,lenovo,amd ryzen  3  dual,8 ,Windows 11,512 gb ssd,34490.0
+1279,lenovo,intel i5 10th,8 ,Windows 11,512 gb ssd,67703.0
+1280,asus,amd ryzen  9  octa,32,Windows 10,1 tb ssd,234990.0
+1281,dell,intel i5 11th,16,Windows 11,512 gb ssd,81700.0
+1282,dell,amd ryzen  3  dual,8 ,Windows 11,1 tb hdd,41290.0
+1283,asus,intel i7 12th,16,Windows 11,512 gb ssd,79990.0
+1284,asus,intel i5 12th,16,Windows 11,512 gb ssd,72990.0
+1285,hp,intel i7 12th,16,Windows 11,1 tb ssd,166399.0
+1286,hp,intel i7 12th,16,Windows 11,1 tb ssd,176699.0
+1287,acer,intel i5 11th,8 ,Windows 11,512 gb ssd,62699.0
+1288,acer,intel i5 12th,8 ,Windows 11,512 gb ssd,79990.0
+1289,dell,intel i7 12th,16,Windows 11,1 tb ssd,144528.0
+1290,dell,intel i5 12th,16,Windows 11,512 gb ssd,84000.0
+1291,dell,intel i5 12th,8 ,Windows 11,512 gb ssd,79990.0
+1292,dell,intel i7 12th,16,Windows 11,512 gb ssd,123698.0
+1293,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,103650.0
+1294,hp,intel i7 11th,16,Windows 11,512 gb ssd,90999.0
+1295,hp,amd athlon dual core processor,8 ,Windows 11,1 tb hdd,35888.0
+1296,dell,intel i5 11th,16,Windows 11,512 gb ssd,76500.0
+1297,asus,intel i5 10th,8 ,Windows 11,512 gb ssd,45990.0
+1298,asus,intel celeron,4 ,Windows 11,256 gb ssd,21990.0
+1300,dell,intel i5 11th,16,Windows 11,512 gb ssd,72990.0
+1301,asus,intel i3 11th,8 ,Windows 11,1 tb hdd,45990.0
+1302,dell,amd ryzen  7  octa,8 ,Windows 11,512 gb ssd,62490.0
+1303,asus,intel i7 12th,16,Windows 11,1 tb ssd,112990.0
+1304,hp,amd ryzen  5  hexa,8 ,Windows 10,512 gb ssd,74999.0
+1305,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,129990.0
+1306,hp,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,65000.0
+1307,hp,intel i7 12th,16,Windows 11,1 tb ssd,84990.0
+1308,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,77499.0
+1310,hp,amd ryzen  3  dual,8 ,Windows 11,1 tb hdd,36990.0
+1312,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,65990.0
+1313,asus,intel i5 12th,16,Windows 11,512 gb ssd,97990.0
+1314,dell,intel i7 12th,16,Windows 11,512 gb ssd,107590.0
+1315,hp,intel i5 11th,8 ,Windows 11,512 gb ssd,55990.0
+1316,hp,amd ryzen  7  octa,16,Windows 11,512 gb ssd,71999.0
+1317,hp,intel i5 12th,8 ,Windows 11,512 gb ssd,62990.0
+1318,hp,intel i5 12th,8 ,Windows 11,512 gb ssd,63500.0
+1320,lenovo,intel i3 10th,8 ,Windows 11,,44200.0
+1321,asus,intel i3 12th,8 ,Windows 11,512 gb ssd,47900.0
+1322,asus,intel i7 12th,16,Windows 11,512 gb ssd,79990.0
+1323,hp,intel i7 12th,16,Windows 11,1 tb ssd,122000.0
+1324,acer,intel i5 12th,16,Windows 11,512 gb ssd,82990.0
+1325,asus,intel i9 12th,32,Windows 11,1 tb ssd,152990.0
+1326,samsung,intel i5 12th,8 ,Windows 11,512 gb ssd,74990.0
+1327,asus,intel i5 11th,8 ,Windows 11,512 gb ssd,45980.0
+1328,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,54649.0
+1329,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,124990.0
+1330,asus,amd ryzen  9  octa,16,Windows 11,512 gb ssd,99990.0
+1331,hp,intel i5 12th,8 ,Windows 11,512 gb ssd,60900.0
+1332,hp,intel i5 12th,16,Windows 11,512 gb ssd,66990.0
+1333,asus,intel i3 11th,8 ,Windows 11,256 gb ssd,42990.0
+1334,asus,amd ryzen  7  octa,8 ,Windows 11,512 gb ssd,67990.0
+1335,dell,intel i3 10th,8 ,Windows 11,512 gb ssd,40690.0
+1336,dell,amd ryzen  3  dual,8 ,Windows 11,512 gb ssd,40990.0
+1337,asus,amd ryzen  5  quad,8 ,Windows 11,512 gb ssd,36990.0
+1339,hp,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,60490.0
+1340,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,44500.0
+1341,hp,intel i5 11th,16,Windows 11,512 gb ssd,69490.0
+1342,dell,intel i7 11th,16,Windows 11,512 gb ssd,102700.0
+1343,dell,intel i3 11th,8 ,Windows 11,512 gb ssd,42490.0
+1344,asus,intel celeron,4 ,Windows 11,128 gb ssd ssd,22490.0
+1345,dell,amd ryzen  5  quad,16,Windows 11,512 gb ssd,69000.0
+1346,dell,intel i5 11th,16,Windows 10,512 gb ssd,72480.0
+1347,hp,amd ryzen  7  octa,16,Windows 11,512 gb ssd,89500.0
+1348,msi,intel i7 12th,16,Windows 11,1 tb ssd,244990.0
+1349,asus,intel i5 11th,8 ,Windows 11,512 gb ssd,65980.0
+1350,asus,intel i3 10th,8 ,Windows 11,512 gb ssd,35990.0
+1351,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,59990.0
+1354,hp,amd ryzen  7  octa,16,Windows 11,1 tb ssd,118999.0
+1355,dell,intel i5 11th,16,Windows 11,512 gb ssd,115790.0
+1358,lenovo,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,63000.0
+1359,hp,intel i3 11th,8 ,Windows 11,1 tb hdd,40200.0
+1360,dell,intel pentium,8 ,Windows 11,256 gb ssd,32000.0
+1361,dell,amd athlon dual core processor,8 ,Windows 11,256 gb ssd,36990.0
+1362,asus,intel i7 12th,16,Windows 11,512 gb ssd,95500.0
+1363,lenovo,intel celeron,4 ,Windows 10,256 gb ssd,27890.0
+1364,asus,intel i3 11th,8 ,Windows 11,1 tb hdd,38990.0
+1365,asus,intel i3 11th,8 ,Windows 11,1 tb hdd,33490.0
+1366,hp,intel i7 11th,16,Windows 11,1 tb ssd,124500.0
+1367,hp,intel i7 11th,16,Windows 11,1 tb ssd,126599.0
+1368,hp,amd ryzen  7  octa,16,Windows 11,512 gb ssd,103999.0
+1369,lenovo,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,62990.0
+1370,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,74490.0
+1371,asus,intel pentium,4 ,Windows 11,1 tb hdd,30770.0
+1373,lenovo,intel celeron,4 ,Windows 11,256 gb ssd,22990.0
+1374,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,64500.0
+1375,lenovo,amd ryzen  7  octa,16,Windows 11,512 gb ssd,80990.0
+1376,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,40990.0
+1377,dell,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,74890.0
+1378,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,52990.0
+1379,hp,intel i7 11th,16,Windows 11,1 tb ssd,93000.0
+1380,asus,intel i9 12th,32,Windows 11,2 tb ssd,304990.0
+1382,asus,intel i9 12th,32,Windows 11,1 tb ssd,241990.0
+1383,hp,intel i5 12th,8 ,Windows 11,512 gb ssd,63890.0
+1384,asus,amd ryzen  7  quad,16,Windows 11,512 gb ssd,98500.0
+1386,asus,amd ryzen  7  octa,8 ,Windows 11,512 gb ssd,87990.0
+1400,dell,amd ryzen  7  octa,16,Windows 11,512 gb ssd,85990.0
+1401,dell,intel i3 11th,8 ,Windows 11,256 gb ssd,42990.0
+1402,apple,apple m1,16,macos,512 gb ssd,129990.0
+1403,apple,apple m1,16,macos,256 gb ssd,112900.0
+1404,acer,intel i3 11th,8 ,Windows 11,256 gb ssd,37500.0
+1405,hp,intel i5 11th,8 ,Windows 10,512 gb ssd,81500.0
+1406,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,99990.0
+1407,dell,intel i5 10th,16,Windows 10,512 gb ssd,82500.0
+1408,asus,amd ryzen  5  hexa,8 ,Windows 11,1 tb hdd,46990.0
+1409,acer,intel i5 11th,8 ,Windows 11,512 gb ssd,79990.0
+1410,apple,apple m1,16,macos,256 gb ssd,112900.0
+1411,lenovo,intel i5 11th,16,Windows 11,512 gb ssd,57990.0
+1412,asus,intel celeron,4 ,Windows 11,,21990.0
+1413,dell,intel i7 11th,16,Windows 11,512 gb ssd,103490.0
+1414,acer,intel i5 11th,16,Windows 11,512 gb ssd,54990.0
+1415,acer,intel i3 11th,8 ,Windows 11,512 gb ssd,39800.0
+1417,asus,intel pentium,8 ,Windows 11,256 gb ssd,26990.0
+1418,asus,intel i5 11th,16,Windows 11,512 gb ssd,74990.0
+1419,hp,intel pentium,8 ,Windows 11,256 gb ssd,30300.0
+1424,acer,amd ryzen  3  dual,4 ,Windows 11,512 gb ssd,27990.0
+1425,lenovo,intel i5 11th,8 ,Windows 11,512 gb ssd,61990.0
+1426,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,36158.0
+1428,dell,amd ryzen  3  dual,8 ,Windows 10,1 tb hdd,39800.0
+1429,dell,intel i3 11th,8 ,Windows 10,256 gb ssd,42907.0
+1430,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,45490.0
+1431,hp,intel i3 11th,8 ,Windows 11,256 gb ssd,38890.0
+1432,dell,amd ryzen  7  octa,16,Windows 11,512 gb ssd,109100.0
+1433,asus,intel i5 11th,16,Windows 11,512 gb ssd,84990.0
+1434,asus,amd ryzen  7  octa,16,Windows 11,512 gb ssd,104090.0
+1435,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,107990.0
+1436,dell,intel pentium,4 ,Windows 11,256 gb ssd,31000.0
+1437,apple,apple m1,16,macos,512 gb ssd,132900.0
+1438,asus,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,55990.0
+1439,asus,intel celeron,4 ,Windows 11,,18990.0
+1440,dell,amd ryzen  7  octa,16,Windows 11,512 gb ssd,99900.0
+1441,dell,intel i5 11th,16,Windows 11,512 gb ssd,85000.0
+1442,msi,amd ryzen  7  octa,8 ,Windows 10,512 gb ssd,64990.0
+1443,asus,intel i9 12th,32,Windows 11,1 tb ssd,281990.0
+1445,asus,intel i5 11th,8 ,Windows 11,512 gb ssd,65900.0
+1446,dell,intel i5 11th,16,Windows 11,512 gb ssd,49890.0
+1447,dell,intel i5 11th,16,Windows 11,512 gb ssd,72490.0
+1448,hp,amd ryzen  5  hexa,8 ,Windows 10,512 gb ssd,58900.0
+1449,dell,amd ryzen  5  quad,8 ,Windows 11,512 gb ssd,49290.0
+1450,dell,intel i7 11th,16,Windows 11,512 gb ssd,103490.0
+1451,asus,amd ryzen  9  octa,8 ,Windows 10,1 tb ssd,101990.0
+1452,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,104990.0
+1454,asus,amd ryzen  7  octa,16,Windows 11,1 tb ssd,99990.0
+1455,asus,amd ryzen  9  octa,16,Windows 10,512 gb ssd,104990.0
+1456,acer,intel i3 11th,4 ,Windows 11,256 gb ssd,36800.0
+1457,acer,amd ryzen  5  quad,8 ,Windows 11,512 gb ssd,42100.0
+1458,hp,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,77500.0
+1459,dell,intel i3 10th,8 ,Windows 11,512 gb ssd,44490.0
+1460,dell,intel i3 10th,8 ,Windows 11,256 gb ssd,44190.0
+1461,dell,amd ryzen  3  dual,8 ,Windows 11,1 tb hdd,35000.0
+1462,dell,intel i3 11th,8 ,Windows 11,256 gb ssd,42690.0
+1463,lenovo,intel i3 10th,8 ,Windows 11,512 gb ssd,38000.0
+1464,msi,amd ryzen  9  octa,16,Windows 11,1 tb ssd,129990.0
+1465,hp,intel i3 11th,8 ,Windows 11,256 gb ssd,56000.0
+1466,dell,intel i3 11th,8 ,Windows 11,1 tb hdd,44500.0
+1467,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,39890.0
+1468,dell,intel i3 11th,8 ,Windows 11,1 tb hdd,45999.0
+1469,asus,intel i3 10th,8 ,Windows 10,1 tb hdd,31990.0
+1470,asus,intel i3 11th,8 ,Windows 11,512 gb ssd,49990.0
+1471,hp,intel celeron,8 ,Windows 11,256 gb ssd,25990.0
+1472,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,46490.0
+1473,asus,intel i3 11th,8 ,Windows 11,256 gb ssd,34490.0
+1474,acer,intel i5 11th,8 ,Windows 11,512 gb ssd,64200.0
+1475,dell,intel i5 11th,8 ,Windows 10,512 gb ssd,57990.0
+1476,dell,intel i3 11th,8 ,Windows 11,512 gb ssd,56990.0
+1477,dell,intel i5 11th,8 ,Windows 11,1 tb hdd,62500.0
+1478,dell,amd ryzen  3  dual,8 ,Windows 11,256 gb ssd,38690.0
+1479,dell,amd ryzen  3  dual,8 ,Windows 11,256 gb ssd,35990.0
+1480,hp,intel i5 11th,16,Windows 11,512 gb ssd,79000.0
+1481,hp,intel i5 11th,8 ,Windows 11,512 gb ssd,75900.0
+1482,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,59300.0
+1483,hp,intel i5 11th,8 ,Windows 11,512 gb ssd,53690.0
+1484,dell,intel i5 11th,8 ,Windows 11,1 tb hdd,69899.0
+1485,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,78500.0
+1486,dell,intel i5 11th,16,Windows 11,512 gb ssd,73850.0
+1487,lenovo,intel i5 11th,16,Windows 11,512 gb ssd,63500.0
+1488,dell,intel i3 10th,4 ,Windows 10,1 tb hdd,43500.0
+1489,lenovo,intel i3 10th,4 ,Windows 11,256 gb ssd,35990.0
+1490,asus,intel i3 11th,8 ,Windows 11,256 gb ssd,42990.0
+1491,hp,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,39790.0
+1492,hp,intel i7 11th,16,Windows 11,1 tb ssd,124999.0
+1493,dell,intel i3 11th,8 ,Windows 11,1 tb hdd,42500.0
+1494,dell,intel i3 11th,4 ,Windows 11,1 tb hdd,43090.0
+1495,dell,intel i5 11th,8 ,Windows 11,512 gb ssd,62490.0
+1496,dell,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,79990.0
+1497,dell,intel i3 10th,8 ,Windows 11,512 gb ssd,42199.0
+1498,lenovo,intel i3 11th,8 ,Windows 11,512 gb ssd,40400.0
+1499,msi,intel i7 12th,32,Windows 11,1 tb ssd,275990.0
+1500,lenovo,intel i3 11th,8 ,Windows 11,256 gb ssd,62190.0
+1501,lenovo,intel i3 10th,8 ,Windows 11,1 tb hdd,36990.0
+1502,lenovo,intel i3 11th,8 ,Windows 11,256 gb ssd,33990.0
+1503,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,45900.0
+1504,dell,intel i5 11th,8 ,Windows 10,1 tb hdd,57990.0
+1505,dell,intel i3 11th,8 ,Windows 11,1 tb hdd,46890.0
+1506,lenovo,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,46990.0
+1507,msi,intel i7 12th,16,Windows 11,1 tb ssd,129490.0
+1508,lenovo,intel i7 11th,16,Windows 11,512 gb ssd,105990.0
+1509,asus,intel pentium,8 ,Windows 11,256 gb ssd,33500.0
+1584,msi,intel i7 13th,16,Windows 11,1 tb ssd,144990.0
+1585,dell,intel i5 11th,8 ,Windows 10,512 gb ssd,80990.0
+1588,msi,intel i5 13th,16,Windows 11,512 gb ssd,65990.0
+1622,asus,intel i7 12th,16,Windows 11,512 gb ssd,91400.0
+1623,asus,amd ryzen  9  octa,16,Windows 11,1 tb ssd,184990.0
+1625,lenovo,intel i7 11th,16,Windows 10,512 gb ssd,138000.0
+1703,asus,intel i5 12th,8 ,Windows 11,512 gb ssd,66990.0
+1704,asus,amd ryzen  5  octa,8 ,Windows 11,512 gb ssd,52990.0
+1705,asus,amd ryzen  5  quad,16,Windows 11,512 gb ssd,68999.0
+1707,hp,intel celeron,4 ,chrome,,30016.0
+1708,avita,amd ryzen  5  quad,8 ,Windows 10,512 gb ssd,32500.0
+1709,asus,intel i5 12th,16,Windows 11,512 gb ssd,62990.0
+1710,hp,amd ryzen  3  dual,4 ,Windows 11,1 tb hdd,26989.0
+1711,lenovo,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,59390.0
+1712,hp,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,41999.0
+1713,asus,amd ryzen  7  quad,16,Windows 11,1 tb ssd,94500.0
+1714,asus,amd ryzen  5  quad,16,Windows 11,512 gb ssd,61500.0
+1715,lenovo,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,86290.0
+1716,asus,amd ryzen  5  octa,16,Windows 11,512 gb ssd,76900.0
+1717,lenovo,amd ryzen  3  quad,8 ,dos,512 gb ssd,36500.0
+1720,asus,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,40390.0
+1721,acer,intel i3,8 ,Windows 11,512 gb ssd,36990.0
+1722,hp,intel i3 10th,8 ,Windows 10,512 gb hdd,58020.0
+1779,acer,intel i3,8 ,Windows 11,256 gb ssd,34990.0
+1804,asus,amd ryzen  7  quad,16,Windows 11,1 tb ssd,94220.0
+1809,lenovo,intel celeron,4 ,Windows 10,128 gb ssd ssd,20990.0
+1812,lenovo,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,69525.0
+1813,asus,intel i3 12th,8 ,Windows 11,512 gb ssd,43500.0
+1816,hp,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,45490.0
+1819,hp,intel i3 11th,8 ,Windows 11,512 gb ssd,44990.0
+1820,lenovo,amd ryzen  5  hexa,8 ,Windows 11,512 gb ssd,92700.0
+1824,lenovo,intel i3 12th,8 ,Windows 11,512 gb ssd,89955.0
+1831,asus,amd ryzen  7  quad,16,Windows 11,1 tb ssd,86885.0
+1893,asus,intel i9 12th,32,Windows 11,1 tb ssd,
+1896,asus,amd ryzen  7  quad,16,Windows 11,1 tb ssd,
+1897,lenovo,intel i3 12th,8 ,Windows 11,512 gb ssd,
+1898,asus,amd ryzen  5  octa,8 ,Windows 11,512 gb ssd,
+1899,asus,intel i5 12th,8 ,Windows 11,512 gb ssd,
+1900,asus,amd ryzen  5  quad,16,Windows 11,512 gb ssd,
+1902,hp,intel celeron,4 ,chrome,,
+1903,avita,amd ryzen  5  quad,8 ,Windows 10,512 gb ssd,
+1904,lenovo,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,
+1905,asus,intel i5 12th,16,Windows 11,512 gb ssd,
+1906,hp,amd ryzen  3  dual,4 ,Windows 11,1 tb hdd,
+1907,asus,amd ryzen  7  quad,16,Windows 11,1 tb ssd,
+1908,lenovo,amd ryzen  5  hexa,16,Windows 11,512 gb ssd,
+1909,lenovo,amd ryzen  3  quad,8 ,dos,512 gb ssd,
+1910,hp,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,
+1911,asus,amd ryzen  5  octa,16,Windows 11,512 gb ssd,
+1912,dell,amd ryzen  5  quad,8 ,Windows 11,1 tb ssd,
+1913,asus,amd ryzen  5  quad,16,Windows 11,512 gb ssd,
+1914,asus,amd ryzen  7  quad,16,Windows 11,1 tb ssd,
+1915,asus,amd ryzen  3  quad,8 ,Windows 11,512 gb ssd,
+1916,hp,intel i3 10th,8 ,Windows 10,512 gb hdd,

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <style>/* Property 1=Default */
+
+
+  body{
+   
+   
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 1392px;
+  height: 903px;
+  left: 0px;
+  top: -10px;
+  box-sizing: border-box;
+   background: #FFFFFF; 
+  }
+  div{
+  background-image: url("/static/img/pngtree-top-view-background-of-desktop-with-electronic-devices-and-laptop-image_307721.jpg");
+background-repeat: no-repeat;
+background-size: contain;
+  position:absolute;
+width: 1000px;
+height: 400px;
+left: 50%;
+top: 7px;
+border-radius: 213px;
+align-items: left;
+
+  }
+  h1{
+    position: absolute;
+    top: 35%;
+    font-size: 3em;
+    left: 3%;
+  }
+
+
+  </style></head> 
+<body>
+
+<h2>Predict Laptop Prices</h2>
+<div id="bg">
+<h1 >Laptop Price predict</h1>
+</div>
+<p> select as per ur Laptop specification:-</p>
+
+<form class='ey' action="{{ url_for('predict')}}" method="POST">
+<label name="brand_name">Brand Name:-         </label>
+<br>
+<select name="brand_name" >
+  <option value="None">select  brand name</option>
+{%for index, row in brand_name.iterrows():%}
+<option value={{row['Mean_Median_Prices_groups']}}>{{row['brand_name']}}</option>
+{%endfor%}
+</select>
+<br>
+<br>
+<label name="processor_brand">Processor Name:-         </label>
+<br>
+<select name="processor_brand" >
+  <option value="None">select  Processor Name</option>
+{%for index, row in processor_brand.iterrows():%}
+<option value={{row['Mean_Median_Prices_groups']}}>{{row['processor_brand']}}</option>
+{%endfor%}
+</select>
+<br>
+<br>
+<label name="ram">RAM Name:-         </label>
+<br>
+<select name="ram" >
+  <option value="None">select  RAM Name</option>
+{%for index, row in memory.iterrows():%}
+<option value={{row['Mean_Median_Prices_groups']}}>{{row['ram']}}</option>
+{%endfor%}
+</select>
+<br>
+<br>
+<label name="os">OS Name:-         </label>
+<br>
+<select name="os" >
+  <option value="None">select  OS Name</option>
+{%for index, row in os.iterrows():%}
+<option value={{row['Mean_Median_Prices_groups']}}>{{row['os']}}</option>
+{%endfor%}
+</select>
+<br>
+<br>
+<label name="storage">Storage Name:-         </label>
+<br>
+<select name="storage" >
+  <option value="None">select  Storage Name</option>
+{%for index, row in storage.iterrows():%}
+<option value={{row['Mean_Median_Prices_groups']}}>{{row['storage']}}</option>
+{%endfor%}
+</select>
+<br>
+<br>
+  <input type="submit" placeholder="Predict">
+</form>
+<br>
+<br>
+The Price of Laptop Range:- {{ prediction_text }}
+</body>
+</html>
+

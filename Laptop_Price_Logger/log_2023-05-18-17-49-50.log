@@ -1,0 +1,138 @@
+2023-05-18 17:49:53,415 DEBUG matplotlib matplotlib data path: C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\matplotlib\mpl-data
+2023-05-18 17:49:53,419 DEBUG matplotlib CONFIGDIR=C:\Users\karth\.matplotlib
+2023-05-18 17:49:53,420 DEBUG matplotlib interactive is False
+2023-05-18 17:49:53,421 DEBUG matplotlib platform is win32
+2023-05-18 17:49:53,441 DEBUG graphviz._tools deprecate positional args: graphviz.backend.piping.pipe(['renderer', 'formatter', 'neato_no_op', 'quiet'])
+2023-05-18 17:49:53,441 DEBUG graphviz._tools deprecate positional args: graphviz.backend.rendering.render(['renderer', 'formatter', 'neato_no_op', 'quiet'])
+2023-05-18 17:49:53,445 DEBUG graphviz._tools deprecate positional args: graphviz.backend.unflattening.unflatten(['stagger', 'fanout', 'chain', 'encoding'])
+2023-05-18 17:49:53,446 DEBUG graphviz._tools deprecate positional args: graphviz.backend.viewing.view(['quiet'])
+2023-05-18 17:49:53,450 DEBUG graphviz._tools deprecate positional args: graphviz.quoting.quote(['is_html_string', 'is_valid_id', 'dot_keywords', 'endswith_odd_number_of_backslashes', 'escape_unescaped_quotes'])
+2023-05-18 17:49:53,450 DEBUG graphviz._tools deprecate positional args: graphviz.quoting.a_list(['kwargs', 'attributes'])
+2023-05-18 17:49:53,450 DEBUG graphviz._tools deprecate positional args: graphviz.quoting.attr_list(['kwargs', 'attributes'])
+2023-05-18 17:49:53,450 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.clear(['keep_attrs'])
+2023-05-18 17:49:53,450 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.__iter__(['subgraph'])
+2023-05-18 17:49:53,450 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.node(['_attributes'])
+2023-05-18 17:49:53,450 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.edge(['_attributes'])
+2023-05-18 17:49:53,450 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.attr(['_attributes'])
+2023-05-18 17:49:53,451 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.subgraph(['name', 'comment', 'graph_attr', 'node_attr', 'edge_attr', 'body'])
+2023-05-18 17:49:53,452 DEBUG graphviz._tools deprecate positional args: graphviz.piping.Pipe._pipe_legacy(['renderer', 'formatter', 'neato_no_op', 'quiet'])
+2023-05-18 17:49:53,453 DEBUG graphviz._tools deprecate positional args: graphviz.saving.Save.save(['directory'])
+2023-05-18 17:49:53,454 DEBUG graphviz._tools deprecate positional args: graphviz.rendering.Render.render(['directory', 'view', 'cleanup', 'format', 'renderer', 'formatter', 'neato_no_op', 'quiet', 'quiet_view'])
+2023-05-18 17:49:53,454 DEBUG graphviz._tools deprecate positional args: graphviz.rendering.Render.view(['directory', 'cleanup', 'quiet', 'quiet_view'])
+2023-05-18 17:49:53,454 DEBUG graphviz._tools deprecate positional args: graphviz.unflattening.Unflatten.unflatten(['stagger', 'fanout', 'chain'])
+2023-05-18 17:49:53,454 DEBUG graphviz._tools deprecate positional args: graphviz.graphs.BaseGraph.__init__(['comment', 'filename', 'directory', 'format', 'engine', 'encoding', 'graph_attr', 'node_attr', 'edge_attr', 'body', 'strict'])
+2023-05-18 17:49:53,455 DEBUG graphviz._tools deprecate positional args: graphviz.sources.Source.from_file(['directory', 'format', 'engine', 'encoding', 'renderer', 'formatter'])
+2023-05-18 17:49:53,456 DEBUG graphviz._tools deprecate positional args: graphviz.sources.Source.__init__(['filename', 'directory', 'format', 'engine', 'encoding'])
+2023-05-18 17:49:53,456 DEBUG graphviz._tools deprecate positional args: graphviz.sources.Source.save(['directory'])
+2023-05-18 17:49:55,145 INFO root Data ingestion started
+2023-05-18 17:49:55,145 INFO root Dataframe created
+2023-05-18 17:49:55,957 INFO root Data ingestion ended
+2023-05-18 17:49:55,957 INFO root Data Transformation started
+2023-05-18 17:49:55,958 INFO root Calling the ingestion .csv file and Creating a Dataframe 
+2023-05-18 17:49:55,990 INFO root Transforming Brand Name
+2023-05-18 17:49:56,000 INFO root Transforming Processor 
+2023-05-18 17:49:56,008 INFO root Transforming RAM 
+2023-05-18 17:49:56,010 INFO root Transforming OS 
+2023-05-18 17:49:56,011 INFO root Transforming Storage 
+2023-05-18 17:49:56,014 INFO root Transforming Prices 
+2023-05-18 17:49:56,028 INFO root Data Transformation ended
+2023-05-18 17:49:56,028 INFO root Data Pre_processing started
+2023-05-18 17:49:56,028 INFO root Calling the pre-processing .csv file and Creating a Dataframe 
+2023-05-18 17:49:56,052 INFO root Naming the columns
+2023-05-18 17:49:56,053 INFO root Deleting the rows with count less than 5
+2023-05-18 17:49:56,053 INFO root Data information
+2023-05-18 17:49:56,053 INFO root  Row :- 1470, Columns:- 6
+2023-05-18 17:49:56,057 INFO root Missing Data Number :- brand_name          0
+processor_brand    31
+ram                 0
+os                 33
+storage            41
+prices             25
+dtype: int64
+2023-05-18 17:49:56,058 INFO root Missing Data Percentage :- brand_name        0.00
+processor_brand   2.11
+ram               0.00
+os                2.24
+storage           2.79
+prices            1.70
+dtype: float64%
+2023-05-18 17:49:56,058 INFO root Index(['Column Namesbrand_name', 'Column Namesprocessor_brand',
+       'Column Namesram', 'Column Namesos', 'Column Namesstorage',
+       'Column Namesprices'],
+      dtype='object')
+2023-05-18 17:49:56,058 INFO root Converting Categorical to Numerical
+2023-05-18 17:49:56,059 INFO root brand_name Started:- 
+2023-05-18 17:49:56,107 INFO root brand_nameEnded ....
+2023-05-18 17:49:56,108 INFO root processor_brand Started:- 
+2023-05-18 17:49:56,198 INFO root processor_brandEnded ....
+2023-05-18 17:49:56,199 INFO root ram Started:- 
+2023-05-18 17:49:56,227 INFO root ramEnded ....
+2023-05-18 17:49:56,228 INFO root os Started:- 
+2023-05-18 17:49:56,253 INFO root osEnded ....
+2023-05-18 17:49:56,254 INFO root storage Started:- 
+2023-05-18 17:49:56,299 INFO root storageEnded ....
+2023-05-18 17:49:56,303 INFO root Taking out null values
+2023-05-18 17:49:56,304 INFO root drop the prices
+2023-05-18 17:49:56,306 INFO root Imputing the Missing values
+2023-05-18 17:49:56,321 INFO root After Imputing the missing values ..............
+2023-05-18 17:49:56,322 INFO root  Row :- 1445, Columns:- 6
+2023-05-18 17:49:56,323 INFO root Missing Data Number :- brand_name         0
+processor_brand    0
+ram                0
+os                 0
+storage            0
+prices             0
+dtype: int64
+2023-05-18 17:49:56,323 INFO root Missing Data Percentage :- brand_name        0.00
+processor_brand   0.00
+ram               0.00
+os                0.00
+storage           0.00
+prices            0.00
+dtype: float64%
+2023-05-18 17:49:56,334 INFO root Data Pre-Processing ended
+2023-05-18 17:49:56,335 INFO root Data Seprated started
+2023-05-18 17:49:56,335 INFO root Seprate x and y data
+2023-05-18 17:49:56,345 INFO root Scaling the values
+2023-05-18 17:49:56,349 INFO root Spliting the data into 80-20
+2023-05-18 17:49:56,359 INFO root Data Seprated ended
+2023-05-18 17:49:59,010 INFO root Model_analysis started
+2023-05-18 17:50:06,956 DEBUG matplotlib CACHEDIR=C:\Users\karth\.matplotlib
+2023-05-18 17:50:06,960 DEBUG matplotlib.font_manager Using fontManager instance from C:\Users\karth\.matplotlib\fontlist-v330.json
+2023-05-18 17:50:09,580 DEBUG root initializing neural network...
+2023-05-18 17:50:09,580 DEBUG root initialized
+2023-05-18 17:50:26,723 INFO root Sttoring the model Object
+2023-05-18 17:50:26,725 INFO root Model_analysis ended
+2023-05-18 17:50:26,743 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-18 17:50:26,743 INFO werkzeug [33mPress CTRL+C to quit[0m
+2023-05-18 17:50:32,613 ERROR Flask_LaptopPricePrediction.app Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\karth\OneDrive\Documents\Laptop_Price_Prediction_Project\Flask_LaptopPricePrediction\app.py", line 13, in index
+    return render_template('index.html')
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\templating.py", line 151, in render_template
+    return _render(app, template, context)
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\templating.py", line 132, in _render
+    rv = template.render(context)
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\karth\OneDrive\Documents\Laptop_Price_Prediction_Project\Flask_LaptopPricePrediction\templates\index.html", line 50, in top-level template code
+    <form class='ey' action="{{ url_for('predict')}}" method="POST">
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1697, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1686, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\werkzeug\routing\map.py", line 947, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'predict'. Did you mean 'static' instead?
+2023-05-18 17:50:32,644 INFO werkzeug 127.0.0.1 - - [18/May/2023 17:50:32] "[35m[1mGET / HTTP/1.1[0m" 500 -

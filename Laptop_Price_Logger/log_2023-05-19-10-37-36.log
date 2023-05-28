@@ -1,0 +1,144 @@
+2023-05-19 10:37:39,019 DEBUG matplotlib matplotlib data path: C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\matplotlib\mpl-data
+2023-05-19 10:37:39,023 DEBUG matplotlib CONFIGDIR=C:\Users\karth\.matplotlib
+2023-05-19 10:37:39,024 DEBUG matplotlib interactive is False
+2023-05-19 10:37:39,024 DEBUG matplotlib platform is win32
+2023-05-19 10:37:39,038 DEBUG graphviz._tools deprecate positional args: graphviz.backend.piping.pipe(['renderer', 'formatter', 'neato_no_op', 'quiet'])
+2023-05-19 10:37:39,040 DEBUG graphviz._tools deprecate positional args: graphviz.backend.rendering.render(['renderer', 'formatter', 'neato_no_op', 'quiet'])
+2023-05-19 10:37:39,043 DEBUG graphviz._tools deprecate positional args: graphviz.backend.unflattening.unflatten(['stagger', 'fanout', 'chain', 'encoding'])
+2023-05-19 10:37:39,044 DEBUG graphviz._tools deprecate positional args: graphviz.backend.viewing.view(['quiet'])
+2023-05-19 10:37:39,047 DEBUG graphviz._tools deprecate positional args: graphviz.quoting.quote(['is_html_string', 'is_valid_id', 'dot_keywords', 'endswith_odd_number_of_backslashes', 'escape_unescaped_quotes'])
+2023-05-19 10:37:39,047 DEBUG graphviz._tools deprecate positional args: graphviz.quoting.a_list(['kwargs', 'attributes'])
+2023-05-19 10:37:39,047 DEBUG graphviz._tools deprecate positional args: graphviz.quoting.attr_list(['kwargs', 'attributes'])
+2023-05-19 10:37:39,047 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.clear(['keep_attrs'])
+2023-05-19 10:37:39,047 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.__iter__(['subgraph'])
+2023-05-19 10:37:39,047 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.node(['_attributes'])
+2023-05-19 10:37:39,048 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.edge(['_attributes'])
+2023-05-19 10:37:39,048 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.attr(['_attributes'])
+2023-05-19 10:37:39,048 DEBUG graphviz._tools deprecate positional args: graphviz.dot.Dot.subgraph(['name', 'comment', 'graph_attr', 'node_attr', 'edge_attr', 'body'])
+2023-05-19 10:37:39,048 DEBUG graphviz._tools deprecate positional args: graphviz.piping.Pipe._pipe_legacy(['renderer', 'formatter', 'neato_no_op', 'quiet'])
+2023-05-19 10:37:39,049 DEBUG graphviz._tools deprecate positional args: graphviz.saving.Save.save(['directory'])
+2023-05-19 10:37:39,049 DEBUG graphviz._tools deprecate positional args: graphviz.rendering.Render.render(['directory', 'view', 'cleanup', 'format', 'renderer', 'formatter', 'neato_no_op', 'quiet', 'quiet_view'])
+2023-05-19 10:37:39,049 DEBUG graphviz._tools deprecate positional args: graphviz.rendering.Render.view(['directory', 'cleanup', 'quiet', 'quiet_view'])
+2023-05-19 10:37:39,050 DEBUG graphviz._tools deprecate positional args: graphviz.unflattening.Unflatten.unflatten(['stagger', 'fanout', 'chain'])
+2023-05-19 10:37:39,050 DEBUG graphviz._tools deprecate positional args: graphviz.graphs.BaseGraph.__init__(['comment', 'filename', 'directory', 'format', 'engine', 'encoding', 'graph_attr', 'node_attr', 'edge_attr', 'body', 'strict'])
+2023-05-19 10:37:39,052 DEBUG graphviz._tools deprecate positional args: graphviz.sources.Source.from_file(['directory', 'format', 'engine', 'encoding', 'renderer', 'formatter'])
+2023-05-19 10:37:39,052 DEBUG graphviz._tools deprecate positional args: graphviz.sources.Source.__init__(['filename', 'directory', 'format', 'engine', 'encoding'])
+2023-05-19 10:37:39,052 DEBUG graphviz._tools deprecate positional args: graphviz.sources.Source.save(['directory'])
+2023-05-19 10:37:40,392 INFO root Data ingestion started
+2023-05-19 10:37:40,392 INFO root Dataframe created
+2023-05-19 10:37:40,949 INFO root Data ingestion ended
+2023-05-19 10:37:40,949 INFO root Data Transformation started
+2023-05-19 10:37:40,949 INFO root Calling the ingestion .csv file and Creating a Dataframe 
+2023-05-19 10:37:40,963 INFO root Transforming Brand Name
+2023-05-19 10:37:40,971 INFO root Transforming Processor 
+2023-05-19 10:37:40,976 INFO root Transforming RAM 
+2023-05-19 10:37:40,977 INFO root Transforming OS 
+2023-05-19 10:37:40,978 INFO root Transforming Storage 
+2023-05-19 10:37:40,979 INFO root Transforming Prices 
+2023-05-19 10:37:40,990 INFO root Data Transformation ended
+2023-05-19 10:37:40,990 INFO root Data Pre_processing started
+2023-05-19 10:37:40,990 INFO root Calling the pre-processing .csv file and Creating a Dataframe 
+2023-05-19 10:37:41,005 INFO root Naming the columns
+2023-05-19 10:37:41,007 INFO root Deleting the rows with count less than 5
+2023-05-19 10:37:41,007 INFO root Data information
+2023-05-19 10:37:41,007 INFO root  Row :- 1470, Columns:- 6
+2023-05-19 10:37:41,010 INFO root Missing Data Number :- brand_name          0
+processor_brand    31
+ram                 0
+os                 33
+storage            41
+prices             25
+dtype: int64
+2023-05-19 10:37:41,011 INFO root Missing Data Percentage :- brand_name        0.00
+processor_brand   2.11
+ram               0.00
+os                2.24
+storage           2.79
+prices            1.70
+dtype: float64%
+2023-05-19 10:37:41,011 INFO root Index(['Column Namesbrand_name', 'Column Namesprocessor_brand',
+       'Column Namesram', 'Column Namesos', 'Column Namesstorage',
+       'Column Namesprices'],
+      dtype='object')
+2023-05-19 10:37:41,011 INFO root Converting Categorical to Numerical
+2023-05-19 10:37:41,011 INFO root brand_name Started:- 
+2023-05-19 10:37:41,045 INFO root brand_nameEnded ....
+2023-05-19 10:37:41,046 INFO root processor_brand Started:- 
+2023-05-19 10:37:41,119 INFO root processor_brandEnded ....
+2023-05-19 10:37:41,120 INFO root ram Started:- 
+2023-05-19 10:37:41,140 INFO root ramEnded ....
+2023-05-19 10:37:41,140 INFO root os Started:- 
+2023-05-19 10:37:41,159 INFO root osEnded ....
+2023-05-19 10:37:41,160 INFO root storage Started:- 
+2023-05-19 10:37:41,193 INFO root storageEnded ....
+2023-05-19 10:37:41,197 INFO root Taking out null values
+2023-05-19 10:37:41,197 INFO root drop the prices
+2023-05-19 10:37:41,200 INFO root Imputing the Missing values
+2023-05-19 10:37:41,212 INFO root After Imputing the missing values ..............
+2023-05-19 10:37:41,213 INFO root  Row :- 1445, Columns:- 6
+2023-05-19 10:37:41,213 INFO root Missing Data Number :- brand_name         0
+processor_brand    0
+ram                0
+os                 0
+storage            0
+prices             0
+dtype: int64
+2023-05-19 10:37:41,213 INFO root Missing Data Percentage :- brand_name        0.00
+processor_brand   0.00
+ram               0.00
+os                0.00
+storage           0.00
+prices            0.00
+dtype: float64%
+2023-05-19 10:37:41,227 INFO root Data Pre-Processing ended
+2023-05-19 10:37:41,227 INFO root Data Seprated started
+2023-05-19 10:37:41,227 INFO root Seprate x and y data
+2023-05-19 10:37:41,234 INFO root Scaling the values
+2023-05-19 10:37:41,236 INFO root Spliting the data into 80-20
+2023-05-19 10:37:41,240 INFO root Data Seprated ended
+2023-05-19 10:37:42,571 INFO root Model_analysis started
+2023-05-19 10:37:47,643 DEBUG matplotlib CACHEDIR=C:\Users\karth\.matplotlib
+2023-05-19 10:37:47,647 DEBUG matplotlib.font_manager Using fontManager instance from C:\Users\karth\.matplotlib\fontlist-v330.json
+2023-05-19 10:37:49,276 DEBUG root initializing neural network...
+2023-05-19 10:37:49,276 DEBUG root initialized
+2023-05-19 10:37:55,801 INFO root Sttoring the model Object
+2023-05-19 10:37:55,802 INFO root Model_analysis ended
+2023-05-19 10:37:55,818 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-05-19 10:37:55,818 INFO werkzeug [33mPress CTRL+C to quit[0m
+2023-05-19 10:38:03,888 ERROR Flask_LaptopPricePrediction.app Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\karth\OneDrive\Documents\Laptop_Price_Prediction_Project\Flask_LaptopPricePrediction\app.py", line 19, in index
+    json_data = json.load(file)
+  File "C:\Program Files\Python310\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "C:\Program Files\Python310\lib\encodings\cp1252.py", line 23, in decode
+    return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 44: character maps to <undefined>
+2023-05-19 10:38:03,890 INFO werkzeug 127.0.0.1 - - [19/May/2023 10:38:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-05-19 10:38:05,227 ERROR Flask_LaptopPricePrediction.app Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\karth\AppData\Roaming\Python\Python310\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\karth\OneDrive\Documents\Laptop_Price_Prediction_Project\Flask_LaptopPricePrediction\app.py", line 19, in index
+    json_data = json.load(file)
+  File "C:\Program Files\Python310\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "C:\Program Files\Python310\lib\encodings\cp1252.py", line 23, in decode
+    return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 44: character maps to <undefined>
+2023-05-19 10:38:05,228 INFO werkzeug 127.0.0.1 - - [19/May/2023 10:38:05] "[35m[1mGET / HTTP/1.1[0m" 500 -
